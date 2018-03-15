@@ -1,0 +1,42 @@
+﻿//USEUNIT AppLoginLogout
+//USEUNIT InitializationEnviornment
+//USEUNIT PlaceOrder
+//USEUNIT POSObjectMapping
+//USEUNIT WrapperFunction
+ 
+//USEUNIT SelectDirectory 
+//USEUNIT PlaceReservationOrder
+ 
+function C43060_Tickets_Printed_displayed_on_case_note_in_Support_Manager()
+{ 
+  try{
+        Log.AppendFolder("C43060_Tickets_Printed_displayed_on_case_note_in_Support_Manager");
+       InitializationEnviornment.initiliaze();
+       AppLoginLogout.login();
+       placeOrder("Daily Admission","Open Dated","Children (Ages 3-12)",1,CommonCalender.getTodaysDate(),"Cash");
+        
+        WrapperFunction.selectMainMenu(SupportManger_MainMenu);
+        //loginSupportManger();     
+		    aqUtils.Delay(15000);
+        setTextBoxValue(newConfirmationSearchtextBox, OrderInfo.prototype.OrderID);
+        newPerformSearchButton.Click();
+        aqUtils.Delay(2000);
+       
+        PrintMenu.Click();
+        subMenuPrintTicket.Click();
+        buttonToggleselectallbutton.Click();
+        buttonPrintbutton.Click();
+        
+        AppLoginLogout.logout(); 
+         
+      } catch (e) {
+    	    merlinLogError("Oops! There's some glitch in the script: " + e.message);
+    	    return;
+        }
+    finally { 
+	    Log.PopLogFolder();
+     
+	    Log.PopLogFolder();
+    }
+}
+ 

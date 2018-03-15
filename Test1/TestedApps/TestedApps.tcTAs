@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1140" key="{3BE95ADE-650C-4E10-B42B-4B6DFEE86024}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{6A9BD230-CCD2-4EEF-B188-8A3BE8345819}" type="Tested Application" typeId="{FD30A383-63C2-4C25-948C-2595C0F81320}">
+			<config nodeName="notepad" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+					<param name="Simple" fileName="notepad.exe" filePath="%windir%\system32\" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{BA837D20-3AED-4185-8E29-C125A228C75A}" type="Tested Application" typeId="{FD30A383-63C2-4C25-948C-2595C0F81320}">
+			<config nodeName="Passport_POS" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\5.0.9sp1\Passport POS 5.0.9.sp1\" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\5.0.9sp1\Passport POS 5.0.9.sp1\" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\5.0.9sp1\Passport POS 5.0.9.sp1\" />
+					<param name="Simple" fileName="Passport POS.exe" filePath="C:\5.0.9sp1\Passport POS 5.0.9.sp1\" parameters="" workFolder="C:\5.0.9sp1\Passport POS 5.0.9.sp1\" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+	<folders />
+</Root>

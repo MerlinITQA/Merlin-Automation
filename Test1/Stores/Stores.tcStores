@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" version="12.0">
+	<children>
+		<child name="Objects" key="{B41657E0-DE0A-4139-8D12-A4914CC5535D}" type="Objects" typeId="{30501691-969F-4007-923F-BA4459E51E6A}" pluginName="Stores">
+			<data path="Objects.tcObjects" />
+		</child>
+	</children>
+	<folders />
+</Root>

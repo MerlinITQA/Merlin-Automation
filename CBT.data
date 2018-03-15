@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root Version="1">
+	<Providers>
+		<A609CA20xCE0Bx4080x93FCx121361DAEEF9 version="1">
+			<groups>
+				<Group0 Caption="EnvironmentList1" Key="903C6638x6E43x478ExBA6Ex84D9B0293BA5" Enabled="True">
+					<Hosts>
+						<Host0 Device="Windows 10" Browser="Google Chrome 50" Resolution="800x480" DeviceApi="Win10" BrowserApi="Chrome50" ResolutionApi="800x480" />
+					</Hosts>
+					<Tests />
+					<TestItems />
+				</Group0>
+			</groups>
+			<tunnels />
+		</A609CA20xCE0Bx4080x93FCx121361DAEEF9>
+	</Providers>
+</Root>

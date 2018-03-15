@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="ID_04_SelectPackage" key="{51F5BDDC-3E5D-490B-8998-EAE8B0C63419}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="ID_04_SelectPackage.js" />
+		</child>
+		<child name="ApplicationOpen" key="{06E16DB4-75AB-475E-B0F4-5C6CD5F86C04}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="ApplicationOpen.js" />
+		</child>
+		<child name="Process" key="{C15A41B9-0C6A-4577-AB41-DB00C09723F7}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Process.js" />
+		</child>
+		<child name="AppLoginLogout" key="{DD005FDF-4D49-40B5-96F0-E9C280AD1E33}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="AppLoginLogout.js" />
+		</child>
+		<child name="TextBox" key="{5250B0DE-8B0F-4FEE-981C-471B947F53A6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="TextBox.js" />
+		</child>
+		<child name="InitializationEnviornment" key="{667519A4-3189-4DEA-8E30-C7312D22BCD6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="InitializationEnviornment.js" />
+		</child>
+		<child name="Button" key="{4FD308B9-0723-4A36-97C4-2361084AED96}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Button.js" />
+		</child>
+		<child name="XMLHandler" key="{F8EA90AE-1F28-4AC6-910E-2281D16D65C0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="XMLHandler.js" />
+		</child>
+		<child name="Listbox" key="{7AB0D75A-FBAA-4D5D-8EF1-D8EEBFB45994}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Listbox.js" />
+		</child>
+		<child name="POSObjectMapping" key="{3FC10DF9-4C50-4644-9B77-297F902AE545}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="POSObjectMapping.js" />
+		</child>
+		<child name="SelectQuantityFromHeader" key="{76C7FF0E-583A-4105-8074-68FC533B1718}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="SelectQuantityFromHeader.js" />
+		</child>
+		<child name="SelectPackageAndSubPackage" key="{8A074FBD-2216-462E-9C68-2A0F00282D28}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="SelectPackageAndSubPackage.js" />
+		</child>
+		<child name="Label" key="{08F0B54E-2B2C-4665-BDD8-B6A6DF3539DD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Label.js" />
+		</child>
+		<child name="ID_05_SelectKeyword" key="{83D573C2-1C8A-43D5-B173-D25FB4E834CF}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="ID_05_SelectKeyword.js" />
+		</child>
+		<child name="ID_01_LoginLogOut" key="{D3960DA1-BD90-411A-8EA7-A9484C18C3FC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="ID_01_LoginLogOut.js" />
+		</child>
+		<child name="ID_02_MainMenuFucntionality" key="{6A113F27-CD66-43CF-BC02-5AEECE4FE518}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="ID_02_MainMenuFucntionality.js" />
+		</child>
+		<child name="WrapperFunction" key="{0A90383C-2A0D-4C18-BE23-89624685744C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="WrapperFunction.js" />
+		</child>
+		<child name="DropDownList" key="{96E04BB9-2F52-46D6-B388-47537243113E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="DropDownList.js" />
+		</child>
+		<child name="CommonCalender" key="{96C70D4C-B3F9-4291-BA23-ADCA85EDEE71}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="CommonCalender.js" />
+		</child>
+		<child name="ID_03_SelectDetailsFromSubWindow" key="{ABFD4633-FCE7-4DBF-8DBE-AA3DE2DBE35D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="ID_03_SelectDetailsFromSubWindow.js" />
+		</child>
+		<child name="SelectSubPackagesFromWindow" key="{30981A99-2104-4ECA-A053-5C1BD7F8C6FD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="SelectSubPackagesFromWindow.js" />
+		</child>
+		<child name="ID_07_FinilizeOrderFlow" key="{B2F6FD39-E3D5-4F48-9470-C503D1E6CF20}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="ID_07_FinilizeOrderFlow.js" />
+		</child>
+		<child name="SelectPaymentType" key="{2D7C73D9-03E4-4F48-B516-937422F2970A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="SelectPaymentType.js" />
+		</child>
+		<child name="SelectGroupFromMainMenu" key="{12B283CD-B1B0-42F1-8932-3FEF6A481BDC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="SelectGroupFromMainMenu.js" />
+		</child>
+		<child name="GroupSelectionFromMainMenu" key="{048A5974-B15F-461B-A7C3-1C6D33DA6389}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="GroupSelectionFromMainMenu.js" />
+		</child>
+		<child name="atest" key="{2E0E0B41-7D8C-4F84-9F6F-28D4A3836E32}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="atest.js" />
+		</child>
+		<child name="_0001485874445808_AnnualPass_IAP_CreditCard" key="{497BFE76-CEED-4ECF-95D2-B0D803888808}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874445808_AnnualPass_IAP_CreditCard.js" />
+		</child>
+		<child name="_001485874439036_PurchaseTicket_Cash" key="{FDBF3849-2400-424C-8523-0BCD60C344E1}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874439036_PurchaseTicket_Cash.js" />
+		</child>
+		<child name="OrderDetails" key="{8BCFF826-86A1-4929-B776-BEBE6115A09D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="OrderDetails.js" />
+		</child>
+		<child name="PassholderDetails" key="{25CBDE02-06B2-482B-B237-D71A88603B99}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="PassholderDetails.js" />
+		</child>
+		<child name="_0001485874439441_PurchaseTicket_Credit_CashPartialPayment" key="{57AAAE6B-998B-4E0A-A300-19ACB01DA5FC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874439441_PurchaseTicket_Credit_CashPartialPayment.js" />
+		</child>
+		<child name="_0001485874440100_Res_Convert_to_Purchase_WebSphere" key="{78DB2395-AEC9-4883-90F5-1EA14009D6FB}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874440100_Res_Convert_to_Purchase_WebSphere.js" />
+		</child>
+		<child name="_0001485874441169_Res_Convert_to_Purchase_Callscripter" key="{AAF2E229-ADFF-4E93-92CC-0AA69F3E5E01}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874441169_Res_Convert_to_Purchase_Callscripter.js" />
+		</child>
+		<child name="_0001485874441584_Res_Convert_to_Purchase_Invoice" key="{06A9D2EF-6B39-4DDA-AD27-A139F76F2BF6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874441584_Res_Convert_to_Purchase_Invoice.js" />
+		</child>
+		<child name="_0001485874454771_Res_make_using_a_Free_Element" key="{283BEA3F-925C-402F-AD2E-11C40B13BC81}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874454771_Res_make_using_a_Free_Element.js" />
+		</child>
+		<child name="Initialize" key="{83A90558-BB8B-4F41-AAE7-87E51018B579}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Initialize.js" />
+		</child>
+		<child name="VerifyCheckProperty" key="{3D105C89-A3CD-4D8D-ACE2-8BF484C89560}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="VerifyCheckProperty.js" />
+		</child>
+		<child name="_0001485874440504_Reservations_Convert_to_Purchase_Ticket_Payment" key="{042AB1AE-1026-41F0-9C3C-E5ABEA3A9869}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874440504_Reservations_Convert_to_Purchase_Ticket_Payment.js" />
+		</child>
+		<child name="_0001485874440825_Res_Convert_to_Purchase_Voucher" key="{291D936E-9B6E-47DE-89F0-54BBF4B3FBED}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874440825_Res_Convert_to_Purchase_Voucher.js" />
+		</child>
+		<child name="ConvertReservationsToPurchase" key="{57426C87-9F95-45A9-9B5F-7E0E8916333E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="ConvertReservationsToPurchase.js" />
+		</child>
+		<child name="PlaceReservationOrder" key="{959C74B2-E1F2-4D08-801B-6C3365DFF174}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="PlaceReservationOrder.js" />
+		</child>
+		<child name="_0001485874462035_Res_make_no_minimum_payment" key="{FF7E7122-D225-4350-B82C-95BDC242A4F4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874462035_Res_make_no_minimum_payment.js" />
+		</child>
+		<child name="_0001485874462326_Res_make_Minimum_payment_required" key="{20A8E2B7-6FC2-4EDE-8791-36C854ECC89A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874462326_Res_make_Minimum_payment_required.js" />
+		</child>
+		<child name="_0001485874462735_Res_Minimum_payment_required_over" key="{6DB730D6-4442-46B0-BD10-D409024750F9}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874462735_Res_Minimum_payment_required_over.js" />
+		</child>
+		<child name="_0001485874463034_Res_Minimum_payment_required_Full" key="{D89E51AD-49FF-40E7-87DB-C86A2AB38FFF}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874463034_Res_Minimum_payment_required_Full.js" />
+		</child>
+		<child name="_0001485874463571_Res_Exceeding_full_payment" key="{A4CE8F87-2F8B-4605-A954-CB6A8C60BC92}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874463571_Res_Exceeding_full_payment.js" />
+		</child>
+		<child name="_0001485874439441_02_Purchase_CC_Cash_partialpay" key="{CABFABA3-C244-40ED-9D4D-B6FCB18551C3}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874439441_02_Purchase_CC_Cash_partialpay.js" />
+		</child>
+		<child name="_0001485874445808_18_AnnualPass_IAP_Cash_WCam" key="{0DC9176D-590F-4E4B-B065-7987EE7320D4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874445808_18_AnnualPass_IAP_Cash_WCam.js" />
+		</child>
+		<child name="_0001485874450788_22_PP_ExpiredPass" key="{FD0C2F80-2A2D-47AA-BF1D-765FBB594693}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874450788_22_PP_ExpiredPass.js" />
+		</child>
+		<child name="_0001485874454224_29_DailyTickets_Cheque_Check" key="{E45D0E3C-8196-44A7-8EF6-3E66BD6E6B17}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874454224_29_DailyTickets_Cheque_Check.js" />
+		</child>
+		<child name="_0001485874456152_33_PromoCodes_Cash" key="{40A8DAA5-F993-4673-834B-A0AC995C8B56}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874456152_33_PromoCodes_Cash.js" />
+		</child>
+		<child name="_001485874446745_19_AP_IAP_Cash_WOCam" key="{21960085-D70C-4258-B6A6-299E6EA8DFAE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874446745_19_AP_IAP_Cash_WOCam.js" />
+		</child>
+		<child name="_001485874449690_21_AP_IAP_Cash_WOCamPassHolder" key="{10F3816B-5F41-46E0-964E-11A003B69291}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874449690_21_AP_IAP_Cash_WOCamPassHolder.js" />
+		</child>
+		<child name="_001485874453765_28_Cashier_NoPermissionToSearch" key="{259D530A-4B40-41A6-8777-7BAA4D248966}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874453765_28_Cashier_NoPermissionToSearch.js" />
+		</child>
+		<child name="_001485874455331_31_DailyTickets_Voucher" key="{7D21BF3B-EF72-45C0-A114-EEB8F8B987E4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874455331_31_DailyTickets_Voucher.js" />
+		</child>
+		<child name="_001485874455847_32_DailyTickets_CashCardCombination" key="{FF6C2A23-1AFC-4A1A-B22E-753C4B686196}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874455847_32_DailyTickets_CashCardCombination.js" />
+		</child>
+		<child name="_001485874456917_35_Offline_Cash" key="{B8DCBB22-46AD-421E-9BA1-DDA9D3429B4E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874456917_35_Offline_Cash.js" />
+		</child>
+		<child name="_0001485874458330_39_PP_MapPassVoucher" key="{726B7AE6-2C3C-497C-8209-E166F3469AFF}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874458330_39_PP_MapPassVoucher.js" />
+		</child>
+		<child name="_001485874439036_01_PurchaseTicket_Cash" key="{3F8105CF-DD25-4A0A-B49B-A6717B93CD87}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874439036_01_PurchaseTicket_Cash.js" />
+		</child>
+		<child name="_001485874448664_20_AP_IAP_Cash_WOPassHolderDetails" key="{A8D7F90E-9B3B-4564-8C34-112268218788}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874448664_20_AP_IAP_Cash_WOPassHolderDetails.js" />
+		</child>
+		<child name="_001485874451379_23_ExpiredPass_RequiredWithDetails" key="{462383BF-B647-4285-B849-456B4590BAE0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874451379_23_ExpiredPass_RequiredWithDetails.js" />
+		</child>
+		<child name="_001485874456478_34_Promocodes_DailyTickets_cash" key="{D5DB74DE-B97B-4DE3-A8A2-337B79926E22}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874456478_34_Promocodes_DailyTickets_cash.js" />
+		</child>
+		<child name="_0001485874463956_Mix_Res_Purchased_Tickets_exact_pay" key="{4E8CDFDF-59C7-418A-9737-4107CBF49D00}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874463956_Mix_Res_Purchased_Tickets_exact_pay.js" />
+		</child>
+		<child name="_0001485874464457_Mix_of_Res_Purchased_Tickets_over_pay" key="{31B01C6B-71D6-437C-9C4D-43EB57B1C745}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874464457_Mix_of_Res_Purchased_Tickets_over_pay.js" />
+		</child>
+		<child name="_0001485874458651_40_Retail_Cash" key="{8714DF8B-170B-47C3-BA09-24A7D4F6A975}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874458651_40_Retail_Cash.js" />
+		</child>
+		<child name="_001485874459072_41_OrderHistory_Refund" key="{A2F6D94B-DA33-45D5-83C2-42F4929B52D6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874459072_41_OrderHistory_Refund.js" />
+		</child>
+		<child name="SelectDirectory" key="{ADA37153-8923-4C97-AB91-6E0778BF276E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="SelectDirectory.js" />
+		</child>
+		<child name="_0001485874459685_43_Complimentary" key="{A901DF03-8F25-4589-B217-CA560317061F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874459685_43_Complimentary.js" />
+		</child>
+		<child name="_001485874460734_46_AnnualPass_Cash" key="{E40FF8DF-D511-476C-8EDE-813B33FE1510}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874460734_46_AnnualPass_Cash.js" />
+		</child>
+		<child name="_001485874461164_47_AP_AnnualPassRenewal_Cash" key="{9AF57338-892C-4A54-9047-C8D3A952D18E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874461164_47_AP_AnnualPassRenewal_Cash.js" />
+		</child>
+		<child name="_0001485874461434_48_AnnualPass_Reissue_Cash" key="{CBBEB6B7-BECE-42A8-8A35-12AB55FB43C9}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874461434_48_AnnualPass_Reissue_Cash.js" />
+		</child>
+		<child name="_0001485874442325_10_DailyTickets_DailyTicket" key="{7112EF3E-0A3A-44EF-886F-1441B274A1F8}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874442325_10_DailyTickets_DailyTicket.js" />
+		</child>
+		<child name="_0001485874442018_09_DailyTickets_OpenDated" key="{E5F7801E-C431-4EA5-B137-473410511047}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874442018_09_DailyTickets_OpenDated.js" />
+		</child>
+		<child name="_0001485874442632_11_LocalPass_AnnualPass_Cash" key="{492998D7-7574-4F5F-B8E6-C518A0A9D62B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874442632_11_LocalPass_AnnualPass_Cash.js" />
+		</child>
+		<child name="_0001485874443088_12_Groups_Cash" key="{EC4038B5-68B1-4BC3-B511-BB77E764A4CF}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874443088_12_Groups_Cash.js" />
+		</child>
+		<child name="_001485874491379_103_VAT_SettlemenWindow" key="{72601104-4F27-4F38-99CC-561C3DBE38BB}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874491379_103_VAT_SettlemenWindow.js" />
+		</child>
+		<child name="_0001485874492241_105_RestrictedNonRestricted_Cash" key="{D1844D18-2B87-4355-866E-71FDE020A148}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874492241_105_RestrictedNonRestricted_Cash.js" />
+		</child>
+		<child name="_001485874494281_109_AvailableTime_DisplayDateValidation" key="{25E2B0A7-D397-4E10-90A9-BB8336B297BD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874494281_109_AvailableTime_DisplayDateValidation.js" />
+		</child>
+		<child name="_001485874495100_111_SingleCC_Tran" key="{F1371BBA-5FF6-4DB5-B420-3F7C0FD10933}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874495100_111_SingleCC_Tran.js" />
+		</child>
+		<child name="_001485874495546_112_SingleCC_Traxn_F12" key="{0D64F449-C3D7-45B9-AE31-AA103A88D4C4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874495546_112_SingleCC_Traxn_F12.js" />
+		</child>
+		<child name="_001485874496318_114_ZipCode_Verification" key="{2794910F-B56E-4C1E-92AE-1FF183C609E9}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874496318_114_ZipCode_Verification.js" />
+		</child>
+		<child name="_0001485874497586_117_DateTime_settlementScreen" key="{E3EBAF99-174D-44C9-BA07-2E65D1D8CE25}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874497586_117_DateTime_settlementScreen.js" />
+		</child>
+		<child name="_001485874498148_118_Groups_ReprintActiveTickets" key="{6950297D-66A7-42CE-9726-584D5AA2AE32}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874498148_118_Groups_ReprintActiveTickets.js" />
+		</child>
+		<child name="_001485874498653_119_ExpirationDateVerification" key="{A73D98E1-0B1D-479A-B2B5-AE159671DD2E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874498653_119_ExpirationDateVerification.js" />
+		</child>
+		<child name="_001485874499185_120_SellingMerchant" key="{E9C79693-B260-45AA-A6F8-A131337279C7}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874499185_120_SellingMerchant.js" />
+		</child>
+		<child name="_0001485874502030_126_Groups_MultiTickets" key="{ACDC1B29-4167-4CBE-9630-8EBF9DD09285}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874502030_126_Groups_MultiTickets.js" />
+		</child>
+		<child name="_0001485874503389_129_SM_ExamineCustDetails" key="{FAEB7803-7E1F-4149-9A7B-9212BB9CDB82}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874503389_129_SM_ExamineCustDetails.js" />
+		</child>
+		<child name="_0001485874503971_130_RemainingTicketsOnCalender" key="{2DD0C092-EDE5-413A-858E-CF5287489B8A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874503971_130_RemainingTicketsOnCalender.js" />
+		</child>
+		<child name="_001485874505535_133_GroupOrder_DateTime" key="{712EAE11-FE1D-4AB6-BD6B-7330B319C560}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874505535_133_GroupOrder_DateTime.js" />
+		</child>
+		<child name="_001485874508233_139_DOBFutureDate_ErrorMessage" key="{D35B8060-69EE-4550-ABE5-7BD00A3CADCD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874508233_139_DOBFutureDate_ErrorMessage.js" />
+		</child>
+		<child name="_0001485874510314_143_DOBEnterUser" key="{B734CA6D-C920-4280-AF1F-AF0D1E7556AD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874510314_143_DOBEnterUser.js" />
+		</child>
+		<child name="_001485874509422_141_YearExpirationDateVerification" key="{6689C052-F310-4B23-A9AE-990E1556AE81}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_001485874509422_141_YearExpirationDateVerification.js" />
+		</child>
+		<child name="_0001485874511158_145_ZipCode_Verification" key="{8ED80A0C-24B3-4B06-AC8A-169166D10F10}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874511158_145_ZipCode_Verification.js" />
+		</child>
+		<child name="_0001485874512046_147_SaveButtonOnPP" key="{39613601-4F60-4BF2-9A33-EB88E55B22D4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874512046_147_SaveButtonOnPP.js" />
+		</child>
+		<child name="_0001485874512540_148_About_InformationValidation" key="{3DDEFFF6-7022-4FA6-BA29-8B67D5F77587}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874512540_148_About_InformationValidation.js" />
+		</child>
+		<child name="_0001485874513391_149_TabKey_DOB2Gender" key="{1E8EB8CE-AA0C-47C4-BA88-041A82B25323}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874513391_149_TabKey_DOB2Gender.js" />
+		</child>
+		<child name="_0001485874514287_151_LineIndention" key="{496E7F4A-89F7-41ED-ABFE-C87BFBA9D42C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874514287_151_LineIndention.js" />
+		</child>
+		<child name="_0001485874515394_154_LogFileVerification" key="{76551DF7-4B24-4626-B96B-CDA69462D945}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874515394_154_LogFileVerification.js" />
+		</child>
+		<child name="_0001485874516286_155_RefundButtonDisable" key="{EF9AD068-AC86-45E1-816E-9C2A54E7A1BA}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874516286_155_RefundButtonDisable.js" />
+		</child>
+		<child name="_0001485874522281_168_LogFolderCreated" key="{D47F49DD-B154-4665-88EC-8FE579267851}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874522281_168_LogFolderCreated.js" />
+		</child>
+		<child name="_0001485874528226_180_AmendMentOfOrder" key="{9458378F-3468-47B3-B873-3E8382AA3D32}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874528226_180_AmendMentOfOrder.js" />
+		</child>
+		<child name="_0001485874531760_188_SM_Refund" key="{3FA27D84-B735-4787-90F7-66C6721ADF48}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874531760_188_SM_Refund.js" />
+		</child>
+		<child name="_0001485874532143_189_CC_CashPartialPay" key="{A506B900-68E9-4E92-8E44-5FC078000AA1}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874532143_189_CC_CashPartialPay.js" />
+		</child>
+		<child name="_0001485874452727_25_LoginErrorValidation" key="{375E1E50-8BA0-4221-805C-71A890719453}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874452727_25_LoginErrorValidation.js" />
+		</child>
+		<child name="_0001485874459968_44_TrackerToValidate_USBScanner" key="{1BFFFAA3-E99F-484C-8BAD-1A7FB7B86CDD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874459968_44_TrackerToValidate_USBScanner.js" />
+		</child>
+		<child name="_0001485874487252_96_TrackerToValidateTicket" key="{68645AFD-351C-4B72-8AE7-DB3E46BDEC37}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874487252_96_TrackerToValidateTicket.js" />
+		</child>
+		<child name="_0001485874461771_49_ClusterTikcet_Cash" key="{0C59FCE4-63E9-44D2-B639-5433B9266CB9}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874461771_49_ClusterTikcet_Cash.js" />
+		</child>
+		<child name="_0001485874452329_24_InactivityWindow_Verification" key="{C3A0D32B-C0F5-4A1F-9E13-C00C512EA321}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874452329_24_InactivityWindow_Verification.js" />
+		</child>
+		<child name="_0001485874460286_45_TrackerTovalidate" key="{E8A02627-A387-4ECF-BE99-49D90A06E6A6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874460286_45_TrackerTovalidate.js" />
+		</child>
+		<child name="_0001485874521335_166_InactivityWindow_Verification" key="{038C17CE-5053-45A2-A45A-20CBF0D9607F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874521335_166_InactivityWindow_Verification.js" />
+		</child>
+		<child name="_0001485874469574_Res_Modify_Increase_tickets_minimum_pay" key="{139384A7-3FF6-4673-822C-C929DEDBE15C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874469574_Res_Modify_Increase_tickets_minimum_pay.js" />
+		</child>
+		<child name="_0001485874470574_Res_Modify_Increase_tickets_no_minimum_pay" key="{0A9DBC6C-C03D-41E9-892D-4403CA7C3599}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874470574_Res_Modify_Increase_tickets_no_minimum_pay.js" />
+		</child>
+		<child name="_0001485874472962_Res_Modify_Reduce_tickets_minimum_pay" key="{DE090270-F0B6-44EA-8351-D448EA661D57}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874472962_Res_Modify_Reduce_tickets_minimum_pay.js" />
+		</child>
+		<child name="PlaceOrder" key="{8F1A802F-61EA-4E77-A0E3-F8AF33CADA47}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="PlaceOrder.js" />
+		</child>
+		<child name="_0001485874439744_Res_Convert_to_Purchase_Cheque" key="{DD8ED5FB-9D20-4E83-8F80-89F2A0AFEAEF}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874439744_Res_Convert_to_Purchase_Cheque.js" />
+		</child>
+		<child name="_0001485874443487_Payments_Cash_payment_type" key="{6619919B-3A3B-4C16-8B2D-0DC8C6B7640B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874443487_Payments_Cash_payment_type.js" />
+		</child>
+		<child name="_0001485874443999_Payments_External_CC_payment_type" key="{96FB2D67-4D48-4744-AC34-968EBED07921}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874443999_Payments_External_CC_payment_type.js" />
+		</child>
+		<child name="_0001485874444346_Payments_Callscripter_payment_type" key="{DDFE39DD-D9EB-4DB0-BB2D-7C5640269814}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874444346_Payments_Callscripter_payment_type.js" />
+		</child>
+		<child name="_0001485874444658_Payments_Invoice_payment_type" key="{260D7472-6188-43E2-A06E-A8D0DF970BD5}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874444658_Payments_Invoice_payment_type.js" />
+		</child>
+		<child name="_0001485874445004_Payments_Ticket_payment_type" key="{637DDF27-048E-4B5B-B45C-FF0BBA291BD7}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874445004_Payments_Ticket_payment_type.js" />
+		</child>
+		<child name="_0001485874464871_Multiple_Pay_when_Res_exact_payment" key="{F046989F-893D-4E5A-BCA2-976CA26D1A49}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874464871_Multiple_Pay_when_Res_exact_payment.js" />
+		</child>
+		<child name="_0001485874465252_Multiple_Pay_when_Res_over_payment" key="{7A33568C-255C-41FE-8DBF-4F1B96B55EDC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874465252_Multiple_Pay_when_Res_over_payment.js" />
+		</child>
+		<child name="_0001485874465825_Res_CandR_CC_Pay_Supervisor" key="{48DC5769-E77E-400D-A29F-B2B7981B55B5}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874465825_Res_CandR_CC_Pay_Supervisor.js" />
+		</child>
+		<child name="_0001485874466380_Res_CandR_CC_Pay_Cashier" key="{0A0417D7-0EB5-4213-8267-E466BE8B238C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874466380_Res_CandR_CC_Pay_Cashier.js" />
+		</child>
+		<child name="_0001485874466921_Res_CandR_Cash_Pay_Supervisor" key="{31ACAB73-D7D5-43A1-82B1-EE7C7544102D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874466921_Res_CandR_Cash_Pay_Supervisor.js" />
+		</child>
+		<child name="_0001485874467502_Res_CandR_Cash_Pay_Cashier" key="{C8B49FCD-2D6E-4F00-9167-41340126D8BE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874467502_Res_CandR_Cash_Pay_Cashier.js" />
+		</child>
+		<child name="_0001485874468074_Res_Convert_to_Purchase_Cash_Pay" key="{E699BE19-54F0-43EF-B555-288339DC3CCE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874468074_Res_Convert_to_Purchase_Cash_Pay.js" />
+		</child>
+		<child name="_0001485874469082_Pass_Processing_Button" key="{ADDEEFF0-3339-46A9-A54D-156E7CE57B4C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874469082_Pass_Processing_Button.js" />
+		</child>
+		<child name="_0001485874470186_Pass_Processing_via_Order_History" key="{D14D007B-BA25-4E5A-B30E-CDD9408FFD70}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874470186_Pass_Processing_via_Order_History.js" />
+		</child>
+		<child name="_0001485874471090_Tracker_Scan_And_Validate_Checking" key="{A9DB676B-8250-45C1-96D9-9734AE3906E0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874471090_Tracker_Scan_And_Validate_Checking.js" />
+		</child>
+		<child name="_0001485874474618_Res_Change_date_Single_pack_no_minum_pay" key="{FCF9B3DB-701F-4D05-A771-DD04DC272C3F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874474618_Res_Change_date_Single_pack_no_minum_pay.js" />
+		</child>
+		<child name="_0001485874475633_Res_Change_date_Single_pack_minum_pay" key="{F526DA6D-B0E0-41A2-A915-EBD480EDB78D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874475633_Res_Change_date_Single_pack_minum_pay.js" />
+		</child>
+		<child name="_0001485874476197_Res_Change_date_Multiple_pack_no_minum_pay" key="{08821C07-EB94-4411-A53B-0398B6E1829F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874476197_Res_Change_date_Multiple_pack_no_minum_pay.js" />
+		</child>
+		<child name="_0001485874477133_Res_Change_date_Multi_minum_pay" key="{289EAAAE-497E-4061-B5A3-4C465E236359}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874477133_Res_Change_date_Multi_minum_pay.js" />
+		</child>
+		<child name="_0001485874477758_Res_Change_date_Multi_diff_date_no_minum_pay" key="{33FD8D5D-FD41-4579-99F5-C6233BE548FD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874477758_Res_Change_date_Multi_diff_date_no_minum_pay.js" />
+		</child>
+		<child name="_0001485874478348_Res_Change_date_Multi_diff_date_minum_pay" key="{6078DDC5-80E0-407C-AF16-85A7968B7F40}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874478348_Res_Change_date_Multi_diff_date_minum_pay.js" />
+		</child>
+		<child name="_0001485874474092_Refund_Order_supervisor_approval" key="{8D9AC96F-92A3-40E8-AF5B-2F7EE94323C2}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874474092_Refund_Order_supervisor_approval.js" />
+		</child>
+		<child name="_0001485874475146_Cashier_Refund_authorisation_prevented" key="{4289D4A8-34CB-42DB-A012-EF1DE2C42E04}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874475146_Cashier_Refund_authorisation_prevented.js" />
+		</child>
+		<child name="_0001485874478909_Cancel_Res_without_refund_minimum_pay" key="{5BDA815A-3518-4E24-809C-18A5D5EB4B1A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874478909_Cancel_Res_without_refund_minimum_pay.js" />
+		</child>
+		<child name="_0001485874480293_Spervisor_Res_Cancel_Partial_minimum_pay" key="{79270412-1AB8-417B-98C8-8085C2E26D60}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874480293_Spervisor_Res_Cancel_Partial_minimum_pay.js" />
+		</child>
+		<child name="_0001485874479485_Home_Menu_Groups_Basic_Functionality" key="{2FF8EB23-0710-454C-93EE-E0A4660548AB}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874479485_Home_Menu_Groups_Basic_Functionality.js" />
+		</child>
+		<child name="_0001485874479932_Directory_Menu_No_Sale_Cash_draw_opens_on_till" key="{71CE0FEE-2AC4-4949-9B83-91D5BC5CE111}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874479932_Directory_Menu_No_Sale_Cash_draw_opens_on_till.js" />
+		</child>
+		<child name="_0001485874480972_Directory_No_Sale_is_not_present_Cashier" key="{3A277739-6101-4415-BCF5-B460097E4D2D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874480972_Directory_No_Sale_is_not_present_Cashier.js" />
+		</child>
+		<child name="_0001485874473438_Res_Modify_Reduce_tickets_no_minimum_pay" key="{234CB4D4-9C07-4E6C-A7D3-84221F6C714F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874473438_Res_Modify_Reduce_tickets_no_minimum_pay.js" />
+		</child>
+		<child name="_0001485874476745_Support_Manager_Basic_Functionality" key="{CB57D0ED-ECE0-4CBC-913F-B1276E21BF9B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874476745_Support_Manager_Basic_Functionality.js" />
+		</child>
+		<child name="_0001485874484669_Res_SupportM_Case_Notes_no_minimum_pay" key="{2E13A1E9-C5B1-43C8-9C58-6BABD3F93830}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874484669_Res_SupportM_Case_Notes_no_minimum_pay.js" />
+		</child>
+		<child name="SupportManagerFunctions" key="{2DD177CA-E93F-4883-B0FD-723CA0313C8A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="SupportManagerFunctions.js" />
+		</child>
+		<child name="_0001485874485210_Res_SupportM_Case_Notes_minimum_pay" key="{117424DB-A1AE-488B-84C6-96D5FE68A0CD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874485210_Res_SupportM_Case_Notes_minimum_pay.js" />
+		</child>
+		<child name="_0001485874488865_Directory_Menu_Go_Offline_button" key="{0834C5E6-FB18-4AB4-84F3-966CCB61B480}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874488865_Directory_Menu_Go_Offline_button.js" />
+		</child>
+		<child name="_0001485874500926_Res_Convert_to_Purchase_CC_Pay" key="{C6B924BD-5255-4AEA-8227-E52EF395089B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874500926_Res_Convert_to_Purchase_CC_Pay.js" />
+		</child>
+		<child name="_0001485874489303_Directory_Menu_Go_Offline_button_cashier" key="{AFF9D29D-877A-4BF9-9CBD-AC89A5B0D0B4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874489303_Directory_Menu_Go_Offline_button_cashier.js" />
+		</child>
+		<child name="_0001485874527201_Settlement_screen_is_cleared_cancelling_order" key="{11385D8B-0701-483C-B1D7-EB319761F4DF}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874527201_Settlement_screen_is_cleared_cancelling_order.js" />
+		</child>
+		<child name="_0001485874526330_No_Order_History_message" key="{6DABF698-6FD7-402B-ACDD-9114E1764ECD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874526330_No_Order_History_message.js" />
+		</child>
+		<child name="_0001485874524824_UpdateCartItems_Large_Orders" key="{7C12C1E5-1D81-40AE-8308-CC1DD9B545AD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874524824_UpdateCartItems_Large_Orders.js" />
+		</child>
+		<child name="_0001485874523980_Multiple_Rate_Types_on_Calendars_Scroll_bar" key="{D5C4079E-BA41-4B6D-A5AF-52CA388FDFB3}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874523980_Multiple_Rate_Types_on_Calendars_Scroll_bar.js" />
+		</child>
+		<child name="_0001485874523440_Mouse_Wheel_use_to_scroll_lists" key="{1062F7BC-2ABE-4F9C-B347-6DDF837E52C3}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874523440_Mouse_Wheel_use_to_scroll_lists.js" />
+		</child>
+		<child name="_0001485874524422_Reprint_Ticket_Button_in_Order_History" key="{5A6A44CA-0A89-4921-A9F8-07C7D6F4E93F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874524422_Reprint_Ticket_Button_in_Order_History.js" />
+		</child>
+		<child name="_0001485874525865_Cancel_Refund_Preview_Window_Cash" key="{BD279DFE-F8AD-4D05-8713-7F491255B8AD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874525865_Cancel_Refund_Preview_Window_Cash.js" />
+		</child>
+		<child name="_0001485874522875_Reservation_Ticket_Capacity" key="{9424B93D-8A06-4D2E-9402-166B74296B8E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874522875_Reservation_Ticket_Capacity.js" />
+		</child>
+		<child name="_0001485874482968_POS_Auto_Validation_On" key="{6EE53EBA-EA97-449B-BD49-4BC1C85950F7}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874482968_POS_Auto_Validation_On.js" />
+		</child>
+		<child name="_0001485874481448_Cashier_Res_Cancel_Partial_minimum_pay" key="{4A08E08F-6F06-4B77-AED2-4C4B61DC5E0F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874481448_Cashier_Res_Cancel_Partial_minimum_pay.js" />
+		</child>
+		<child name="_0001485874482347_Supervisor_Res_Partial_Refund_minimum_pay" key="{53E7EDB5-F85D-478B-A391-9082AF7FBCFA}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874482347_Supervisor_Res_Partial_Refund_minimum_pay.js" />
+		</child>
+		<child name="_0001485874483357_Cashier_Res_Partial_Refund_minimum_pay" key="{00D9B3D2-E95C-4C58-9CCA-7B70AB5D65B4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874483357_Cashier_Res_Partial_Refund_minimum_pay.js" />
+		</child>
+		<child name="_0001485874486033_Res_SupportM_Case_Notes_minimum_pay_multiple" key="{11CEBB61-E5CD-4C5B-9254-DDFF294C3F1C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874486033_Res_SupportM_Case_Notes_minimum_pay_multiple.js" />
+		</child>
+		<child name="_0001485874453384_Ability_to_restrict_available_payment_methods" key="{2D80F834-50E2-4805-A55C-E4C57D6BF000}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874453384_Ability_to_restrict_available_payment_methods.js" />
+		</child>
+		<child name="_0001485874493872_Cart_Adjustment_Processing_Fee_to_POS_Orders" key="{3AA8D6D6-81AE-4E92-ADD3-6B829D05FCCC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874493872_Cart_Adjustment_Processing_Fee_to_POS_Orders.js" />
+		</child>
+		<child name="_0001485874495995_Concierge_Tickets_Trade_Referral_Name_Capture" key="{4B107EFD-02F2-47D2-A6F0-9CEDB4567E3B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874495995_Concierge_Tickets_Trade_Referral_Name_Capture.js" />
+		</child>
+		<child name="_0001485874496781_New_York_Pass_Serial_Number_Capture" key="{6A0077B6-71AE-4441-8E08-6AB10AEB1D90}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874496781_New_York_Pass_Serial_Number_Capture.js" />
+		</child>
+		<child name="_0001485874499581_Automatic_default_placement_on_selected_screens" key="{88FCA23B-BED5-4A5B-AA4A-D94DBC8921A4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874499581_Automatic_default_placement_on_selected_screens.js" />
+		</child>
+		<child name="_0001485874502442_POS_screen_launches_maximised" key="{F780AF8A-7EC0-463D-A0A0-71A8D615B5A8}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874502442_POS_screen_launches_maximised.js" />
+		</child>
+		<child name="_0001485874507346_Offline_Go_Online_button_is_disabled" key="{0CD08A1B-1E48-4FE5-867A-448C941BE5C5}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874507346_Offline_Go_Online_button_is_disabled.js" />
+		</child>
+		<child name="_0001485874518744_External_Device_Menu_Buttons_are_Configurable" key="{604DE4B5-9E21-4F34-AE0C-7911AAEA7AF7}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874518744_External_Device_Menu_Buttons_are_Configurable.js" />
+		</child>
+		<child name="C15959_Pay_Types_Purchase_Using_Cheque" key="{D103796E-D545-4E5E-9DC5-CCC392FBDAE7}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15959_Pay_Types_Purchase_Using_Cheque.js" />
+		</child>
+		<child name="C15964_Pay_Types_Purchase_Using_Cash_and_Card" key="{C5CA3F7E-5BD1-4C85-B72C-23246145CAA6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15964_Pay_Types_Purchase_Using_Cash_and_Card.js" />
+		</child>
+		<child name="C17288_Error_Message_CC_incorrect" key="{5B078BAA-D7B0-4B0A-B373-C4681E938ECC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17288_Error_Message_CC_incorrect.js" />
+		</child>
+		<child name="C17332_Error_Message_Expired_CC" key="{C9FFEB63-ED3C-41D4-B483-5C0E3A084947}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17332_Error_Message_Expired_CC.js" />
+		</child>
+		<child name="C16046_Reprint_Tickets_from_the_Groups_Menu" key="{3B011C5C-90E3-4030-9665-E0A65F2C10D6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16046_Reprint_Tickets_from_the_Groups_Menu.js" />
+		</child>
+		<child name="C16036_Available_Times_list_corresponds_to_the_date_selected" key="{370877C0-3CC2-4D51-8AF8-6AB3E7328FA0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16036_Available_Times_list_corresponds_to_the_date_selected.js" />
+		</child>
+		<child name="C16054_Purchase_Group_Multi_Tickets" key="{61EA983D-ABF4-42AA-A54E-4AAEBDF55B72}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16054_Purchase_Group_Multi_Tickets.js" />
+		</child>
+		<child name="C15940_Purchase_Open_Dated_Ticket" key="{92E1DEA6-25DE-4463-A220-9255615FD052}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15940_Purchase_Open_Dated_Ticket.js" />
+		</child>
+		<child name="C15941_Purchase_Timed_Ticket" key="{82064159-7AE8-403A-A61E-0690384EBBCA}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15941_Purchase_Timed_Ticket.js" />
+		</child>
+		<child name="C15942_Purchase_Annual_Pass" key="{96BB7B8E-45B6-4522-80C1-B661482A2DAD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15942_Purchase_Annual_Pass.js" />
+		</child>
+		<child name="C15970_Purchase_Offline_Ticket" key="{08960C5B-F9E3-4B4D-8DDE-779A088FB2C0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15970_Purchase_Offline_Ticket.js" />
+		</child>
+		<child name="C15985_Purchase_Complimentary_Package" key="{8C3EC4A5-576D-4E01-B365-42EE5D650E05}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15985_Purchase_Complimentary_Package.js" />
+		</child>
+		<child name="C15982_Purchase_Retail_Package" key="{8B1AC83B-A5B0-468C-99FA-F5698DFEC32D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15982_Purchase_Retail_Package.js" />
+		</child>
+		<child name="C16059_Groups_External_System_Reference_Code" key="{0B894F1C-4A76-4CB2-BD85-873669E602EC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16059_Groups_External_System_Reference_Code.js" />
+		</child>
+		<child name="C16060_Creating_new_Groups_and_update" key="{A7340CF8-A443-45F9-AB13-0EE9FA48119D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16060_Creating_new_Groups_and_update.js" />
+		</child>
+		<child name="C15966_Purchase_Using_Promo_Code" key="{5E2DDA13-088D-4A34-94A2-04D826199116}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15966_Purchase_Using_Promo_Code.js" />
+		</child>
+		<child name="C17270_Multiple_different_times_selected_same_Date" key="{D11CAD41-3A57-4733-AC62-8A0F1A2F5742}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17270_Multiple_different_times_selected_same_Date.js" />
+		</child>
+		<child name="C17269_Different_times_selected_on_a_single_package" key="{63775CBC-F7F7-433C-9CB5-CD19FD9C1BF0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17269_Different_times_selected_on_a_single_package.js" />
+		</child>
+		<child name="C17359_Open_Dated_Ensure_date_is_Not_added" key="{743F5BC1-61F5-44BD-B0ED-A9BED6444DEE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17359_Open_Dated_Ensure_date_is_Not_added.js" />
+		</child>
+		<child name="C16016_Auto_Validation_Validate_All" key="{81AC3658-1591-458C-81E8-C7CDA4248643}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16016_Auto_Validation_Validate_All.js" />
+		</child>
+		<child name="C17536_Auto_Validation_Validate_Selected" key="{0264B317-9FA6-4734-AE3A-BB6800CFC590}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17536_Auto_Validation_Validate_Selected.js" />
+		</child>
+		<child name="C17537_Auto_Validation_Dont_Validate" key="{7B0BA795-CD15-427E-AB7B-34AF5B88FD46}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17537_Auto_Validation_Dont_Validate.js" />
+		</child>
+		<child name="C17326_Menu_Tracker_User_Information" key="{41F53921-2D46-4832-AE38-30D06E6A64C8}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17326_Menu_Tracker_User_Information.js" />
+		</child>
+		<child name="C16338_Purchase_Flexi_Admission" key="{06DF1D5E-3F3A-42FE-A68B-C2057B70D98D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16338_Purchase_Flexi_Admission.js" />
+		</child>
+		<child name="C15897_Passwords_can_not_be_pasted" key="{F3E37456-5D74-4978-A4BC-A43E996F67DE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15897_Passwords_can_not_be_pasted.js" />
+		</child>
+		<child name="C15899_Passwords_can_not_pasted_Supervisor" key="{21BB0DEF-F9FD-4091-BBF3-45796A3C581A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15899_Passwords_can_not_pasted_Supervisor.js" />
+		</child>
+		<child name="C16083_Refund_button_is_disabled_offline_mode" key="{497A6F2F-B783-4B23-BAA9-AC5DA82D9EC0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16083_Refund_button_is_disabled_offline_mode.js" />
+		</child>
+		<child name="C15922_Support_Manager_Refund_tickets" key="{C432662C-3CA8-45A9-BE2C-687E0CED284B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15922_Support_Manager_Refund_tickets.js" />
+		</child>
+		<child name="C16035_Processing_Fee_to_POS_Orders" key="{3555DCEF-FE0C-4A4B-8742-D1BB19B71BEA}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16035_Processing_Fee_to_POS_Orders.js" />
+		</child>
+		<child name="C17294_Two_different_rates_within_the_same_package" key="{7369B18F-7492-4766-9799-AEAC59C8D02E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17294_Two_different_rates_within_the_same_package.js" />
+		</child>
+		<child name="C16032_Ability_to_Authorize_Sales_of_Products" key="{6F666190-1297-41D8-B99A-3F2BBBC5AEC5}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16032_Ability_to_Authorize_Sales_of_Products.js" />
+		</child>
+		<child name="C16008_Menu_Tracker_Auto_Login" key="{771B7DBE-EA1B-4D8A-A1F2-B06D1DC9DE91}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16008_Menu_Tracker_Auto_Login.js" />
+		</child>
+		<child name="C15988_Tracker_validate_with_Auto_validation_Off" key="{B145700D-CCDB-4D62-A4B8-C89DCC9B36BB}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15988_Tracker_validate_with_Auto_validation_Off.js" />
+		</child>
+		<child name="C16023_Tracker_validate_with_Auto_validation_On" key="{668A03A4-FC8A-40C5-9E04-9F05E1C6D129}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16023_Tracker_validate_with_Auto_validation_On.js" />
+		</child>
+		<child name="C17237_Print_Annual_Pass_button_is_greyed_out" key="{6BB58497-664E-48BD-BE60-31C646617053}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17237_Print_Annual_Pass_button_is_greyed_out.js" />
+		</child>
+		<child name="C16108_Scroll_bar_removed_from_the_Order_Info" key="{9FACEBCA-F899-4336-8B18-7B0B9116CDEB}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16108_Scroll_bar_removed_from_the_Order_Info.js" />
+		</child>
+		<child name="_0001485874526785_Groups_Scroll_bar_Order_Information_window" key="{3247102A-A6FF-45B8-BB3E-97F4140C34E1}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="_0001485874526785_Groups_Scroll_bar_Order_Information_window.js" />
+		</child>
+		<child name="C16031_Ability_to_Sales_of_Products_via_Supervisor" key="{4E0CEEE7-AF63-42F1-9FD3-00979FA988D4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16031_Ability_to_Sales_of_Products_via_Supervisor.js" />
+		</child>
+		<child name="C17235_Passholder_displayed_correctly_10_orders" key="{8C53BCE4-FFB8-4892-8964-F4691F040EBC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17235_Passholder_displayed_correctly_10_orders.js" />
+		</child>
+		<child name="C17372_Pass_Processing_Required_Fields" key="{6325448F-4A6D-4E9B-B281-DE552757D1CE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17372_Pass_Processing_Required_Fields.js" />
+		</child>
+		<child name="C16094_Default_Organization_Name" key="{AE63AEBA-1789-45D5-90F5-ED399C957D3E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16094_Default_Organization_Name.js" />
+		</child>
+		<child name="C15951_Launching_Passport_Exchange" key="{EF5EBFFA-C5E6-4DDA-AD10-6955ED3AE029}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15951_Launching_Passport_Exchange.js" />
+		</child>
+		<child name="C17236_Passport_Exchange_from_the_home_button" key="{6B6788FC-B8C3-4E66-9837-64AD339F5DC8}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17236_Passport_Exchange_from_the_home_button.js" />
+		</child>
+		<child name="C17268_Passport_Exchange_opens_within_the_POS" key="{572C24B6-29C6-4850-B074-D421BB1C1EA4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17268_Passport_Exchange_opens_within_the_POS.js" />
+		</child>
+		<child name="C17302_Locales_are_stored" key="{D55886D9-C71E-4C68-805C-7DE58354C627}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17302_Locales_are_stored.js" />
+		</child>
+		<child name="C16006_Pass_Pro_from_Confirmation_screen" key="{FE5DB919-3158-4083-9EE7-60E6191A46D3}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16006_Pass_Pro_from_Confirmation_screen.js" />
+		</child>
+		<child name="C15981_Pass_Pro_previously_purchased_Annual_Pass" key="{B82A421D-0663-41A6-9C6C-5D0C28AF83EC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15981_Pass_Pro_previously_purchased_Annual_Pass.js" />
+		</child>
+		<child name="C15896_Passwords_pasted_test_on_Change_Pass_prompt" key="{A0264C72-5A0B-4E2D-88EC-8A67F68941FE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15896_Passwords_pasted_test_on_Change_Pass_prompt.js" />
+		</child>
+		<child name="C15895_Passwords_pasted_test_on_log_in_field" key="{8E0A3ACE-7A04-4B1B-91BE-37B8722FCCD2}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15895_Passwords_pasted_test_on_log_in_field.js" />
+		</child>
+		<child name="C15955_Text_wrapping_occurs_on_the_Home_menu" key="{DE9A0CAE-E5C7-464E-82EA-3A4FD74A3C17}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15955_Text_wrapping_occurs_on_the_Home_menu.js" />
+		</child>
+		<child name="C15954_Tax_and_Fee_display" key="{21FD842E-5555-4478-BB6F-6223CA7C493E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15954_Tax_and_Fee_display.js" />
+		</child>
+		<child name="C17233_BreakDown_taxes_fees_and_card_adjustments" key="{1F173201-78B0-492C-A315-398A9C212118}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17233_BreakDown_taxes_fees_and_card_adjustments.js" />
+		</child>
+		<child name="C17238_Quantity_selected_Does_Not_remain" key="{39DADA54-12BD-4588-95A5-04EACC724E89}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17238_Quantity_selected_Does_Not_remain.js" />
+		</child>
+		<child name="C17318_Confirmation_Screen_dollor_0_Purchases" key="{D5299105-AE82-4B96-B76C-A9D30731FF5D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17318_Confirmation_Screen_dollor_0_Purchases.js" />
+		</child>
+		<child name="C16045_Date_time_is_displayed_on_Settlement" key="{0B7D8C9F-0F5B-49F3-9DC2-4D6F23173F85}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16045_Date_time_is_displayed_on_Settlement.js" />
+		</child>
+		<child name="C17544_12_Hour_Clock_Displays" key="{59B35E25-4AAA-420A-8985-D22DBBAF5E01}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17544_12_Hour_Clock_Displays.js" />
+		</child>
+		<child name="C17253_Refund_Due_amount_is_displayed_correctly" key="{637EF2DC-0AEF-42A0-BBD8-B90656FB4ABF}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17253_Refund_Due_amount_is_displayed_correctly.js" />
+		</child>
+		<child name="C16058_Event_Capacity_is_displayed" key="{E4CE8E51-56E2-4859-B3D4-A4B9D76D255E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16058_Event_Capacity_is_displayed.js" />
+		</child>
+		<child name="C16052_Automatic_Timeout_option_disabled" key="{9E6F2348-ECE4-4E7C-BAA6-54D9731BA001}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16052_Automatic_Timeout_option_disabled.js" />
+		</child>
+		<child name="C16039_Order_is_Not_duplicated_when_F12_key" key="{65F22C2C-A93A-445E-B536-84761BC38601}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16039_Order_is_Not_duplicated_when_F12_key.js" />
+		</child>
+		<child name="C17354_Settlement_Screen_Next_Dollar" key="{D363AC0A-044C-4729-8639-05A5D6928E9F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17354_Settlement_Screen_Next_Dollar.js" />
+		</child>
+		<child name="C15952_Res_Loading_Res_with_cancelled_tickets" key="{18E6A84B-EB56-4E5F-926D-377B5DC1FC18}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15952_Res_Loading_Res_with_cancelled_tickets.js" />
+		</child>
+		<child name="C16053_Automatic_Timeout_option_enabled" key="{18EB6E4C-31DE-4BBA-8049-EB92500F5F46}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16053_Automatic_Timeout_option_enabled.js" />
+		</child>
+		<child name="C17538_Order_is_Not_duplicated_when_F12_key_zipcode" key="{EBB40545-B381-4593-B718-41EE3CE7E3D8}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17538_Order_is_Not_duplicated_when_F12_key_zipcode.js" />
+		</child>
+		<child name="C17335_Settlement_Screen_Cash_Function_Keys" key="{7F2F1E40-0884-4AAC-8B81-A012A231B8C9}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17335_Settlement_Screen_Cash_Function_Keys.js" />
+		</child>
+		<child name="C17355_Settlement_Screen_Apply_Amount_F9_Keys" key="{12AF1EDD-681C-4A91-91F8-06F17DE67750}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17355_Settlement_Screen_Apply_Amount_F9_Keys.js" />
+		</child>
+		<child name="C17356_Settlement_Screen_Clear_Amount_F8_Keys" key="{B6A0DF4A-48EB-4C27-8949-13FA27526286}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17356_Settlement_Screen_Clear_Amount_F8_Keys.js" />
+		</child>
+		<child name="C17357_Settlement_Screen_Apply_Balance_F11_Keys" key="{47B1A179-B040-4668-845F-D42814C6772E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17357_Settlement_Screen_Apply_Balance_F11_Keys.js" />
+		</child>
+		<child name="C17358_Settlement_Screen_Complete_Order_F12_Keys" key="{5C86219D-E282-4F7B-9188-127AD825049A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17358_Settlement_Screen_Complete_Order_F12_Keys.js" />
+		</child>
+		<child name="C16097_Inactivity_Logged_Off_Messages" key="{E4D9CB19-0DD9-49C1-A62C-F5612E0CA575}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16097_Inactivity_Logged_Off_Messages.js" />
+		</child>
+		<child name="C16085_Default_Width_of_Rate_Type_Column_Changes" key="{BE048DB9-19E9-4D5B-8331-FF2ED7E28D4D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16085_Default_Width_of_Rate_Type_Column_Changes.js" />
+		</child>
+		<child name="C16030_Settlement_Screen_VAT_Display" key="{89B2EA05-3535-4946-8BED-8F40B7F72D3F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16030_Settlement_Screen_VAT_Display.js" />
+		</child>
+		<child name="C17258_XMC_Calendar_closes_when_POS_is_timed_out" key="{E09BD973-8640-4B38-8181-88E79D7FF31F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17258_XMC_Calendar_closes_when_POS_is_timed_out.js" />
+		</child>
+		<child name="C17259_XMC_Annual_Pass_Demographic_winDow_closes" key="{BD069F5C-A16F-4109-82CB-4D6A0582A841}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17259_XMC_Annual_Pass_Demographic_winDow_closes.js" />
+		</child>
+		<child name="C15891_Settlement_Screen_verify_currency" key="{39AF39FB-823B-4289-BE56-47FB1AA598C1}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15891_Settlement_Screen_verify_currency.js" />
+		</child>
+		<child name="C17260_XMC_Modify_Reservation_Date_closes" key="{6BF7F084-1C5F-449D-AABA-AC8227A2EFA0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17260_XMC_Modify_Reservation_Date_closes.js" />
+		</child>
+		<child name="C17367_Reservations_Annual_Passes_Blocked" key="{7192DBCC-564F-494C-AF51-CC6C54A7156A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17367_Reservations_Annual_Passes_Blocked.js" />
+		</child>
+		<child name="C17368_Res_Adding_to_an_Existing_Promo_Code" key="{56352512-D96E-4E16-9BF5-1794D53443E2}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17368_Res_Adding_to_an_Existing_Promo_Code.js" />
+		</child>
+		<child name="C17242_Res_cash_drawer_not_open_overpayment" key="{67E6FA04-A008-4F40-BCEC-B5921F617FD1}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17242_Res_cash_drawer_not_open_overpayment.js" />
+		</child>
+		<child name="C17290_Res_amount_of_cash_for_partial_cash_pay" key="{59130CCA-5747-4B4F-9A69-FFE134CA9C81}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17290_Res_amount_of_cash_for_partial_cash_pay.js" />
+		</child>
+		<child name="C17277_Unable_to_clear_cart_on_a_loaded_res" key="{6CFEF4F5-E829-4CDC-B415-33CF0F4AB090}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17277_Unable_to_clear_cart_on_a_loaded_res.js" />
+		</child>
+		<child name="C17271_Different_times_in_a_single_reservation" key="{70E09F69-5F5A-4717-ABCF-2175840DD160}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17271_Different_times_in_a_single_reservation.js" />
+		</child>
+		<child name="C17229_Res_are_displayed_in_the_correct_Order" key="{1DC32123-8DB0-4EB1-BF76-ACB1582D1E05}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17229_Res_are_displayed_in_the_correct_Order.js" />
+		</child>
+		<child name="C15953_Saving_Memo_information_to_a_Res" key="{4D39B283-ABFA-4282-8D03-D5D14F4C35E8}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C15953_Saving_Memo_information_to_a_Res.js" />
+		</child>
+		<child name="C17230_Order_History_displays_in_the_correct_Order" key="{C2B3ABE9-7910-42EC-94A1-BA31F71A85DA}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17230_Order_History_displays_in_the_correct_Order.js" />
+		</child>
+		<child name="C17239_0_credit_card_payments_cannot_be_made" key="{9FE648A7-9096-452D-9293-C330A220F42D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17239_0_credit_card_payments_cannot_be_made.js" />
+		</child>
+		<child name="C17240_Modify_time_slot_for_reservation" key="{37ADE162-FCF6-48C8-84FB-2DFA0104900E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17240_Modify_time_slot_for_reservation.js" />
+		</child>
+		<child name="C17364_Reservations_Date_Time_Capacity" key="{2CB96833-3EFF-4405-BCEE-2C6C0B5DCF3F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C17364_Reservations_Date_Time_Capacity.js" />
+		</child>
+		<child name="C16102_Scroll_Bar_works_correctly_on_Multiple_Rates" key="{D1AD745B-7122-4A38-8FC4-C8E673004628}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16102_Scroll_Bar_works_correctly_on_Multiple_Rates.js" />
+		</child>
+		<child name="C16050_Automatic_default_placement_of_Cursor" key="{050569D2-B2F2-4B96-95E9-0C3B3BAAA82A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16050_Automatic_default_placement_of_Cursor.js" />
+		</child>
+		<child name="C16101_KeyWord_Mouse_Wheel_to_Scroll" key="{9449902F-7A7D-4CEC-94E8-6339AC1E85E9}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C16101_KeyWord_Mouse_Wheel_to_Scroll.js" />
+		</child>
+		<child name="C37509_New_order_Button_Repeated" key="{CC57D782-7905-4EEB-9404-3FA41860E36F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37509_New_order_Button_Repeated.js" />
+		</child>
+		<child name="C37513_Group_Name_Header_redirects_Group_Update" key="{0F263575-CC39-4ACD-9465-5ADD7E4EE5E0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37513_Group_Name_Header_redirects_Group_Update.js" />
+		</child>
+		<child name="C37514_Pay_Invoice_Order_60_Char" key="{5DA841C0-3732-4D3C-9098-446A9D3330A1}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37514_Pay_Invoice_Order_60_Char.js" />
+		</child>
+		<child name="C37515_Payment_Invoice_Order_Less_60_Char" key="{A3DFFF08-5E8D-45D3-9289-88C7F3966B34}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37515_Payment_Invoice_Order_Less_60_Char.js" />
+		</child>
+		<child name="C37524_PE_Access_to_POS_Home_menues" key="{CFE842CE-88EB-4A17-A115-8B0C10958A9E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37524_PE_Access_to_POS_Home_menues.js" />
+		</child>
+		<child name="C37525_PE_Access_Log_out_button" key="{2102D22D-DCE8-4617-AE6D-D86620396713}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37525_PE_Access_Log_out_button.js" />
+		</child>
+		<child name="C37526_PE_Access_Directory_Menu" key="{8F90E833-D15D-4FDD-9ACD-570978B0042B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37526_PE_Access_Directory_Menu.js" />
+		</child>
+		<child name="C37527_Groups_Using_zero_quantity_button_to_remove_tickets" key="{934D2BD2-A853-4404-912E-736A4A106D0C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37527_Groups_Using_zero_quantity_button_to_remove_tickets.js" />
+		</child>
+		<child name="C37625_Res_Confirm_Cancellations_YES_Supervisor" key="{960EA26C-E05E-4E95-A1E7-3E6FE6D63C22}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37625_Res_Confirm_Cancellations_YES_Supervisor.js" />
+		</child>
+		<child name="C37626_Res_Confirm_Cancellations_YES_Cashier" key="{ADEF27DC-244D-4BC8-9CDB-6E3A694D11E5}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37626_Res_Confirm_Cancellations_YES_Cashier.js" />
+		</child>
+		<child name="C37627_Res_Confirm_Cancellations_NO_Supervisor" key="{FCDD9C66-95E3-49FD-B4A6-5BF4F137502C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37627_Res_Confirm_Cancellations_NO_Supervisor.js" />
+		</child>
+		<child name="C37628_Res_Confirm_Cancellations_NO_Cashier" key="{25B5A271-D8F6-496F-BDAE-9EB5859A1E98}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37628_Res_Confirm_Cancellations_NO_Cashier.js" />
+		</child>
+		<child name="C37530_Restricted_Payment" key="{7CBC52CE-DF1E-4469-9001-F28F12A776E7}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37530_Restricted_Payment.js" />
+		</child>
+		<child name="C37510_Pay_CC_required_fields_Street_address" key="{D82D7AB0-73F4-4A17-8708-EA57EBEFA1BA}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37510_Pay_CC_required_fields_Street_address.js" />
+		</child>
+		<child name="C37511_Pay_CC_required_fields_Zip_Code" key="{99CC6E37-BFA7-460C-9076-C64E911E7956}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37511_Pay_CC_required_fields_Zip_Code.js" />
+		</child>
+		<child name="C37512_Pay_CC_required_fields_Expiration" key="{200B9B21-0040-4582-B35B-F9C629FA6452}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37512_Pay_CC_required_fields_Expiration.js" />
+		</child>
+		<child name="C37629_AP_capture_image_should_not_display" key="{FEEF7486-C51C-4C06-88D7-361AB17FB5D3}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37629_AP_capture_image_should_not_display.js" />
+		</child>
+		<child name="C37630_AP_capture_image_should_be_display" key="{24AD9FF4-B340-438B-AFC9-CC8B7083643C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37630_AP_capture_image_should_be_display.js" />
+		</child>
+		<child name="C37631_AP_no_capture_image" key="{15A8CED3-0AB3-4F1F-BCC2-886BDD886B85}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37631_AP_no_capture_image.js" />
+		</child>
+		<child name="C37632_Capture_image_when_demographics" key="{A3D03F22-8EC8-4047-9272-63A905A46788}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37632_Capture_image_when_demographics.js" />
+		</child>
+		<child name="C37633_Demographics_required" key="{733E48A6-7959-4933-9C7D-F2E2EA2A28F5}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C37633_Demographics_required.js" />
+		</child>
+		<child name="A1_Confirmation_Screen_New_Group_Order_Button" key="{F6B1F2CA-4A0D-40E8-A1BB-EA433DB5E3B0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="A1_Confirmation_Screen_New_Group_Order_Button.js" />
+		</child>
+		<child name="A2_Confirmation_Screen_New_Order_Button" key="{413660CB-1843-48D8-8162-65EDA9DD2424}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="A2_Confirmation_Screen_New_Order_Button.js" />
+		</child>
+		<child name="A3_Pass_Processing_screen_can_be_skipped" key="{4D2A6B7D-6719-4452-A9AF-31830BCD7C77}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="A3_Pass_Processing_screen_can_be_skipped.js" />
+		</child>
+		<child name="A4_Pass_Processing_Confirmation_Print_Season_Pass_Button" key="{0C5689D9-5893-4DAD-B112-E75C14E89DF8}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="A4_Pass_Processing_Confirmation_Print_Season_Pass_Button.js" />
+		</child>
+		<child name="C43103_Error_message_is_not_displayed" key="{42B25115-C373-4752-863B-CEACD11031D0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43103_Error_message_is_not_displayed.js" />
+		</child>
+		<child name="C43122_Inactivity_message_appears" key="{98AE7ED7-BF78-40A1-B545-BCC156034046}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43122_Inactivity_message_appears.js" />
+		</child>
+		<child name="C43121_Data_is_auto_populated" key="{B2975488-D4FF-4A08-ABBE-C5757CD41797}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43121_Data_is_auto_populated.js" />
+		</child>
+		<child name="e" key="{49F9C23B-E002-4BD0-AE82-AC4BB5EE59BF}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="e.js" />
+		</child>
+		<child name="C43124_Selecting_checkbox_date_gets_copied" key="{F30ECA4D-4680-4F9A-9466-384E2E7F4343}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43124_Selecting_checkbox_date_gets_copied.js" />
+		</child>
+		<child name="C43125_Error_does_not_trigger_cancellation_of_Res" key="{17241F5E-7A6E-4F91-841C-8A30CDEE9716}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43125_Error_does_not_trigger_cancellation_of_Res.js" />
+		</child>
+		<child name="C43126_Refund_receipt_is_updated" key="{62603D62-C53F-4BF0-9394-757FE47E30D4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43126_Refund_receipt_is_updated.js" />
+		</child>
+		<child name="i" key="{5BFFA176-10E2-4CC0-972E-5AF61F178084}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="i.js" />
+		</child>
+		<child name="j" key="{779F9381-20D1-418C-9EF2-70516EB4F99E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="j.js" />
+		</child>
+		<child name="C43088_Res_with_active_Promo_Code" key="{B94AB68D-C9C3-4D04-A2E9-6DDE9A133827}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43088_Res_with_active_Promo_Code.js" />
+		</child>
+		<child name="C43127_POS_Point_of_Sale_screen_and_Cart" key="{BD90C6F8-97C3-427F-9D53-50AD74DF8E42}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43127_POS_Point_of_Sale_screen_and_Cart.js" />
+		</child>
+		<child name="m" key="{E1A04953-DBBB-4C50-85C9-3D5D8721ECD6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="m.js" />
+		</child>
+		<child name="C43094_Change_due_for_overpayment_Mixed_Orders" key="{7CB9130C-FE16-4EC2-BD72-3F9B5D63AA9A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43094_Change_due_for_overpayment_Mixed_Orders.js" />
+		</child>
+		<child name="C43095_Res_nonReservation_items_can_be_refunded" key="{6FCD8BD1-FDC6-4E8B-B410-7C702BDEB642}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43095_Res_nonReservation_items_can_be_refunded.js" />
+		</child>
+		<child name="onErrorEvent" key="{B9C994D0-CD17-468D-BBFD-4FF8A210D317}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="onErrorEvent.js" />
+		</child>
+		<child name="onStartEvent" key="{C56500A3-6C33-4C02-BEC5-A3DA29A07AAE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="onStartEvent.js" />
+		</child>
+		<child name="C42836_Case_notes_for_orders_edited_in_PP" key="{5D1E2618-B316-4D2E-B707-A0512373250A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C42836_Case_notes_for_orders_edited_in_PP.js" />
+		</child>
+		<child name="C43090_Ensures_that_the_VAT_info" key="{64AAE4B2-2D5B-415C-8171-E3CE0932A250}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43090_Ensures_that_the_VAT_info.js" />
+		</child>
+		<child name="C43059_Override_button_is_displayed" key="{04FE6244-183B-4C0E-9575-BE5970BB5B96}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43059_Override_button_is_displayed.js" />
+		</child>
+		<child name="s" key="{17C87301-EBC3-4247-8116-4B5B526A8BD4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="s.js" />
+		</child>
+		<child name="C43060_Tickets_displayed_on_case_note_in_SM" key="{C01B9FBD-50C7-4C0F-A8FC-870583E832D5}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43060_Tickets_displayed_on_case_note_in_SM.js" />
+		</child>
+		<child name="C43061_Tickets_displayed_on_reprint_in_SM" key="{827B84B5-BD1A-4381-9C26-4329A225B3D0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43061_Tickets_displayed_on_reprint_in_SM.js" />
+		</child>
+		<child name="onStopEvent" key="{55FAD780-73A8-4815-A3E9-81525D57F698}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="onStopEvent.js" />
+		</child>
+		<child name="C43064_Information_of_convert_to_res_orders" key="{75A315A6-F932-4B67-82B8-C8472E2B0437}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43064_Information_of_convert_to_res_orders.js" />
+		</child>
+		<child name="C43065_UI_of_the_PP_screen_is_updated" key="{204CD0AE-D218-45A8-B5BF-AC0374006676}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43065_UI_of_the_PP_screen_is_updated.js" />
+		</child>
+		<child name="C43067_Notes_added_to_an_Order_Memo" key="{81D2DB16-2C82-49A4-A622-675628A531F7}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43067_Notes_added_to_an_Order_Memo.js" />
+		</child>
+		<child name="C43068_Shopping_Cart_on_the_POS" key="{F3B6FBAA-5772-48D7-906B-1E75921B5E35}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43068_Shopping_Cart_on_the_POS.js" />
+		</child>
+		<child name="C43069_Clear_Cart_button_delete_all_items" key="{C8051D95-5B9B-4EEC-8D2F-8689C1AF6568}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43069_Clear_Cart_button_delete_all_items.js" />
+		</child>
+		<child name="C43070_New_Quantity_Selector_option" key="{E18FF147-105C-4743-9FFE-A1D3D16F0091}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43070_New_Quantity_Selector_option.js" />
+		</child>
+		<child name="C43071_Digit_buttons_to_enter_two_three_digits" key="{499DBDE2-2B79-4917-B0EC-8AA3B705DDD9}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43071_Digit_buttons_to_enter_two_three_digits.js" />
+		</child>
+		<child name="C43072_Adding_tickets_to_Cart_clears_Quantity" key="{26582622-F077-4D4C-842D-55EE7BA9CBEA}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43072_Adding_tickets_to_Cart_clears_Quantity.js" />
+		</child>
+		<child name="C43077_Pay_Type_Charge_to_Room" key="{D5D774C4-55F4-46D1-AB8A-8C53B7CC873D}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43077_Pay_Type_Charge_to_Room.js" />
+		</child>
+		<child name="C43078_Prevents_adding_Charge_to_Room" key="{04CEE1BE-DEED-4663-BF53-841E47379992}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43078_Prevents_adding_Charge_to_Room.js" />
+		</child>
+		<child name="C43079_Prevents_adding_another_Charge_to_Room" key="{FC09FD0C-9ACE-44A0-9157-492804546038}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43079_Prevents_adding_another_Charge_to_Room.js" />
+		</child>
+		<child name="C43080_Ensure_that_Promo_Code_field" key="{9C34487E-397E-4786-A5F5-5AC31BE13CB0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43080_Ensure_that_Promo_Code_field.js" />
+		</child>
+		<child name="C43081_Promo_Code_functional_on_all_screens" key="{BC2732A6-FC34-4FDB-A5D3-37357983687F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43081_Promo_Code_functional_on_all_screens.js" />
+		</child>
+		<child name="C43082_Promo_Code_Keyword_Displayed" key="{14C6756E-FBDB-4361-9D20-258F11A7CCA8}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43082_Promo_Code_Keyword_Displayed.js" />
+		</child>
+		<child name="C43083_Promo_Code_not_found_error_message" key="{2D83BF14-952F-4E4D-8813-049909FE668B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43083_Promo_Code_not_found_error_message.js" />
+		</child>
+		<child name="C43084_Promo_Codes_disabled_in_Offline" key="{928ED934-0C35-4EB7-A481-B1F93E3CC8D0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43084_Promo_Codes_disabled_in_Offline.js" />
+		</child>
+		<child name="C43085_Build_version_number_on_footer" key="{EE67AA07-EE39-4CEB-8AF4-756C6BE0BE27}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43085_Build_version_number_on_footer.js" />
+		</child>
+		<child name="C43089_Verify_Capacity_for_Comp_packages" key="{7018CF5E-9097-4D42-8748-B3A6AA007B4B}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43089_Verify_Capacity_for_Comp_packages.js" />
+		</child>
+		<child name="C43093_Receipts_Refund_order_receipt_formats" key="{6BB7CFA4-494A-4149-BCB5-F37E0333D336}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43093_Receipts_Refund_order_receipt_formats.js" />
+		</child>
+		<child name="C43092_Offline_Open_tickets_are_available" key="{3ACF968D-3372-43FC-997C-61B6669A41DC}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43092_Offline_Open_tickets_are_available.js" />
+		</child>
+		<child name="C43098_Package_list_is_resetting_position" key="{EFB721F2-6F13-4DDD-9029-8D48CD70B2CA}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43098_Package_list_is_resetting_position.js" />
+		</child>
+		<child name="C43099_Ticket_Cart_correctly_updates_Capacity" key="{305579B1-2B06-471B-A629-1712F2FF7647}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43099_Ticket_Cart_correctly_updates_Capacity.js" />
+		</child>
+		<child name="C43105_Purchased_ticket_available_for_validation" key="{8FE7B3B7-F5F0-4845-ADE0-ADD5E3FFE66E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43105_Purchased_ticket_available_for_validation.js" />
+		</child>
+		<child name="C43106_CC_refund_authorization_slip_are_printed" key="{4FF0E626-46BE-4792-8974-78B6AC6879FD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43106_CC_refund_authorization_slip_are_printed.js" />
+		</child>
+		<child name="C43107_Subtotal_of_a_mixed_order" key="{8716ACE3-FC90-4BC7-A49E-C61A288C607E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43107_Subtotal_of_a_mixed_order.js" />
+		</child>
+		<child name="C43108_Confirmation_screen" key="{2CF42BEE-EF0A-4AF8-A5A9-7B3E06788950}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43108_Confirmation_screen.js" />
+		</child>
+		<child name="C43120_Correct_amount_Apply_Balance_button" key="{7B8CBC5A-C639-412D-B6B6-53E31C18FBB4}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43120_Correct_amount_Apply_Balance_button.js" />
+		</child>
+		<child name="C43129_Tax_figures_on_a_refund" key="{D23842F1-EDE0-44C5-8C86-2B6606E041B8}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43129_Tax_figures_on_a_refund.js" />
+		</child>
+		<child name="C43130_Capacity_is_added_for_Date_Packages" key="{3B0970BC-0C41-4267-A2D3-041AB850F4D6}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43130_Capacity_is_added_for_Date_Packages.js" />
+		</child>
+		<child name="C43131_Comp_pack_added_correct_dates_time" key="{7029474D-B69C-42F6-86FC-E75C08DF965C}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43131_Comp_pack_added_correct_dates_time.js" />
+		</child>
+		<child name="C43140_Res_Comp_package_with_Value" key="{98322852-B018-4ED5-84C5-05821AB05D16}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43140_Res_Comp_package_with_Value.js" />
+		</child>
+		<child name="C43141_Offline_Adding_tickets_to_Cart_Online" key="{2C41DCA2-7882-4725-9C11-CC444A3CAF25}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43141_Offline_Adding_tickets_to_Cart_Online.js" />
+		</child>
+		<child name="C43144_Group_gets_created_mandatory_fields" key="{536050FC-02C6-4AC4-8A1F-B40E54D09D36}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43144_Group_gets_created_mandatory_fields.js" />
+		</child>
+		<child name="C43145_Cancelled_reservations_status_in_SM" key="{611712E7-32E8-494D-9E92-77911C6C36A2}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43145_Cancelled_reservations_status_in_SM.js" />
+		</child>
+		<child name="C43146_Res_Receipt_format_for_CC_refund" key="{E24B2665-BD0B-40D9-9268-12A87CBFBB2F}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43146_Res_Receipt_format_for_CC_refund.js" />
+		</child>
+		<child name="C43147_Res_receipt_format_for_CC_partial_refund" key="{E774085F-4E25-4E8E-95E9-4EBE226ECE1A}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43147_Res_receipt_format_for_CC_partial_refund.js" />
+		</child>
+		<child name="C43148_Promo_Codes_gets_applied_properly" key="{72C88954-9CA1-42E4-80E9-0D073B50E3F2}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43148_Promo_Codes_gets_applied_properly.js" />
+		</child>
+		<child name="C43150_Edit_Group_users_details_on_refunding" key="{E90BCFB1-FEB0-46D2-BD54-11DB2401A7BB}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43150_Edit_Group_users_details_on_refunding.js" />
+		</child>
+		<child name="C43153_Memo_text_displayed_in_SM" key="{014712FF-BC19-4047-8812-4E02C67493FB}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43153_Memo_text_displayed_in_SM.js" />
+		</child>
+		<child name="C43154_Completed_and_paid_Res_in_order_history" key="{2B6162A3-A8D9-4848-B67E-B972797E0A40}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="C43154_Completed_and_paid_Res_in_order_history.js" />
+		</child>		
+	</children>
+	<folders>
+		<folder caption="TestScripts" description="A logical folder that is used to organize project items and elements." moniker="">
+			<folders>
+				<folder caption="PreProd_Passport POS 5.0.3.rc6" description="A logical folder that is used to organize project items and elements." moniker="">
+					<folders>
+						<folder caption="TestCases" description="A logical folder that is used to organize project items and elements." moniker="">
+							<folders>
+								<folder caption="Pack 1" description="A logical folder that is used to organize project items and elements." moniker="" />
+								<folder caption="Pack 3" description="A logical folder that is used to organize project items and elements." moniker="" />
+								<folder caption="ATimeOut" description="A logical folder that is used to organize project items and elements." moniker="">
+									<references>
+										<ref key="{9E6F2348-ECE4-4E7C-BAA6-54D9731BA001}" />
+										<ref key="{18EB6E4C-31DE-4BBA-8049-EB92500F5F46}" />
+										<ref key="{E4D9CB19-0DD9-49C1-A62C-F5612E0CA575}" />
+										<ref key="{E09BD973-8640-4B38-8181-88E79D7FF31F}" />
+										<ref key="{BD069F5C-A16F-4109-82CB-4D6A0582A841}" />
+										<ref key="{6BF7F084-1C5F-449D-AABA-AC8227A2EFA0}" />
+										<ref key="{C3A0D32B-C0F5-4A1F-9E13-C00C512EA321}" />
+										<ref key="{038C17CE-5053-45A2-A45A-20CBF0D9607F}" />
+									</references>
+								</folder>
+								<folder caption="CharlotteTest" description="A logical folder that is used to organize project items and elements." moniker="">
+									<references>
+										<ref key="{2D80F834-50E2-4805-A55C-E4C57D6BF000}" />
+										<ref key="{4B107EFD-02F2-47D2-A6F0-9CEDB4567E3B}" />
+										<ref key="{6A0077B6-71AE-4441-8E08-6AB10AEB1D90}" />
+										<ref key="{3AA8D6D6-81AE-4E92-ADD3-6B829D05FCCC}" />
+										<ref key="{88FCA23B-BED5-4A5B-AA4A-D94DBC8921A4}" />
+										<ref key="{604DE4B5-9E21-4F34-AE0C-7911AAEA7AF7}" />
+										<ref key="{EBB40545-B381-4593-B718-41EE3CE7E3D8}" />
+									</references>
+								</folder>
+								<folder caption="Pack 4" description="A logical folder that is used to organize project items and elements." moniker="" />
+								<folder caption="Not Valid" description="A logical folder that is used to organize project items and elements." moniker="">
+									<references>
+										<ref key="{D5C4079E-BA41-4B6D-A5AF-52CA388FDFB3}" />
+										<ref key="{6DABF698-6FD7-402B-ACDD-9114E1764ECD}" />
+										<ref key="{25E2B0A7-D397-4E10-90A9-BB8336B297BD}" />
+										<ref key="{370877C0-3CC2-4D51-8AF8-6AB3E7328FA0}" />
+										<ref key="{D1AD745B-7122-4A38-8FC4-C8E673004628}" />
+										<ref key="{7F2F1E40-0884-4AAC-8B81-A012A231B8C9}" />
+										<ref key="{934D2BD2-A853-4404-912E-736A4A106D0C}" />
+										<ref key="{637DDF27-048E-4B5B-B45C-FF0BBA291BD7}" />
+									</references>
+								</folder>
+								<folder caption="Pack 2" description="A logical folder that is used to organize project items and elements." moniker="" />
+								<folder caption="Manual" description="A logical folder that is used to organize project items and elements." moniker="">
+									<references>
+										<ref key="{71CE0FEE-2AC4-4949-9B83-91D5BC5CE111}" />
+										<ref key="{67E6FA04-A008-4F40-BCEC-B5921F617FD1}" />
+									</references>
+								</folder>
+								<folder caption="Automated Full" description="A logical folder that is used to organize project items and elements." moniker="">
+									<references>
+										<ref key="{283BEA3F-925C-402F-AD2E-11C40B13BC81}" />
+										<ref key="{48DC5769-E77E-400D-A29F-B2B7981B55B5}" />
+										<ref key="{0A0417D7-0EB5-4213-8267-E466BE8B238C}" />
+										<ref key="{A9DB676B-8250-45C1-96D9-9734AE3906E0}" />
+										<ref key="{4289D4A8-34CB-42DB-A012-EF1DE2C42E04}" />
+										<ref key="{CB57D0ED-ECE0-4CBC-913F-B1276E21BF9B}" />
+										<ref key="{2FF8EB23-0710-454C-93EE-E0A4660548AB}" />
+										<ref key="{3A277739-6101-4415-BCF5-B460097E4D2D}" />
+										<ref key="{2E13A1E9-C5B1-43C8-9C58-6BABD3F93830}" />
+										<ref key="{117424DB-A1AE-488B-84C6-96D5FE68A0CD}" />
+										<ref key="{11CEBB61-E5CD-4C5B-9254-DDFF294C3F1C}" />
+										<ref key="{0834C5E6-FB18-4AB4-84F3-966CCB61B480}" />
+										<ref key="{AFF9D29D-877A-4BF9-9CBD-AC89A5B0D0B4}" />
+										<ref key="{F780AF8A-7EC0-463D-A0A0-71A8D615B5A8}" />
+										<ref key="{1062F7BC-2ABE-4F9C-B347-6DDF837E52C3}" />
+										<ref key="{7C12C1E5-1D81-40AE-8308-CC1DD9B545AD}" />
+										<ref key="{BD279DFE-F8AD-4D05-8713-7F491255B8AD}" />
+										<ref key="{3247102A-A6FF-45B8-BB3E-97F4140C34E1}" />
+										<ref key="{11385D8B-0701-483C-B1D7-EB319761F4DF}" />
+										<ref key="{39AF39FB-823B-4289-BE56-47FB1AA598C1}" />
+										<ref key="{8E0A3ACE-7A04-4B1B-91BE-37B8722FCCD2}" />
+										<ref key="{A0264C72-5A0B-4E2D-88EC-8A67F68941FE}" />
+										<ref key="{F3E37456-5D74-4978-A4BC-A43E996F67DE}" />
+										<ref key="{21BB0DEF-F9FD-4091-BBF3-45796A3C581A}" />
+										<ref key="{C432662C-3CA8-45A9-BE2C-687E0CED284B}" />
+										<ref key="{92E1DEA6-25DE-4463-A220-9255615FD052}" />
+										<ref key="{82064159-7AE8-403A-A61E-0690384EBBCA}" />
+										<ref key="{96BB7B8E-45B6-4522-80C1-B661482A2DAD}" />
+										<ref key="{EF5EBFFA-C5E6-4DDA-AD10-6955ED3AE029}" />
+										<ref key="{4D39B283-ABFA-4282-8D03-D5D14F4C35E8}" />
+										<ref key="{21FD842E-5555-4478-BB6F-6223CA7C493E}" />
+										<ref key="{DE9A0CAE-E5C7-464E-82EA-3A4FD74A3C17}" />
+										<ref key="{D103796E-D545-4E5E-9DC5-CCC392FBDAE7}" />
+										<ref key="{C5CA3F7E-5BD1-4C85-B72C-23246145CAA6}" />
+										<ref key="{5E2DDA13-088D-4A34-94A2-04D826199116}" />
+										<ref key="{08960C5B-F9E3-4B4D-8DDE-779A088FB2C0}" />
+										<ref key="{8B1AC83B-A5B0-468C-99FA-F5698DFEC32D}" />
+										<ref key="{8C3EC4A5-576D-4E01-B365-42EE5D650E05}" />
+										<ref key="{B145700D-CCDB-4D62-A4B8-C89DCC9B36BB}" />
+										<ref key="{81AC3658-1591-458C-81E8-C7CDA4248643}" />
+										<ref key="{89B2EA05-3535-4946-8BED-8F40B7F72D3F}" />
+										<ref key="{65F22C2C-A93A-445E-B536-84761BC38601}" />
+										<ref key="{0B7D8C9F-0F5B-49F3-9DC2-4D6F23173F85}" />
+										<ref key="{050569D2-B2F2-4B96-95E9-0C3B3BAAA82A}" />
+										<ref key="{61EA983D-ABF4-42AA-A54E-4AAEBDF55B72}" />
+										<ref key="{E4CE8E51-56E2-4859-B3D4-A4B9D76D255E}" />
+										<ref key="{0B894F1C-4A76-4CB2-BD85-873669E602EC}" />
+										<ref key="{A7340CF8-A443-45F9-AB13-0EE9FA48119D}" />
+										<ref key="{497A6F2F-B783-4B23-BAA9-AC5DA82D9EC0}" />
+										<ref key="{BE048DB9-19E9-4D5B-8331-FF2ED7E28D4D}" />
+										<ref key="{AE63AEBA-1789-45D5-90F5-ED399C957D3E}" />
+										<ref key="{9449902F-7A7D-4CEC-94E8-6339AC1E85E9}" />
+										<ref key="{9FACEBCA-F899-4336-8B18-7B0B9116CDEB}" />
+										<ref key="{1DC32123-8DB0-4EB1-BF76-ACB1582D1E05}" />
+										<ref key="{C2B3ABE9-7910-42EC-94A1-BA31F71A85DA}" />
+										<ref key="{1F173201-78B0-492C-A315-398A9C212118}" />
+										<ref key="{8C53BCE4-FFB8-4892-8964-F4691F040EBC}" />
+										<ref key="{6B6788FC-B8C3-4E66-9837-64AD339F5DC8}" />
+										<ref key="{6BB58497-664E-48BD-BE60-31C646617053}" />
+										<ref key="{39DADA54-12BD-4588-95A5-04EACC724E89}" />
+										<ref key="{9FE648A7-9096-452D-9293-C330A220F42D}" />
+										<ref key="{37ADE162-FCF6-48C8-84FB-2DFA0104900E}" />
+										<ref key="{637EF2DC-0AEF-42A0-BBD8-B90656FB4ABF}" />
+										<ref key="{572C24B6-29C6-4850-B074-D421BB1C1EA4}" />
+										<ref key="{6CFEF4F5-E829-4CDC-B415-33CF0F4AB090}" />
+										<ref key="{5B078BAA-D7B0-4B0A-B373-C4681E938ECC}" />
+										<ref key="{59130CCA-5747-4B4F-9A69-FFE134CA9C81}" />
+										<ref key="{D55886D9-C71E-4C68-805C-7DE58354C627}" />
+										<ref key="{D5299105-AE82-4B96-B76C-A9D30731FF5D}" />
+										<ref key="{41F53921-2D46-4832-AE38-30D06E6A64C8}" />
+										<ref key="{C9FFEB63-ED3C-41D4-B483-5C0E3A084947}" />
+										<ref key="{D363AC0A-044C-4729-8639-05A5D6928E9F}" />
+										<ref key="{12AF1EDD-681C-4A91-91F8-06F17DE67750}" />
+										<ref key="{B6A0DF4A-48EB-4C27-8949-13FA27526286}" />
+										<ref key="{47B1A179-B040-4668-845F-D42814C6772E}" />
+										<ref key="{5C86219D-E282-4F7B-9188-127AD825049A}" />
+										<ref key="{743F5BC1-61F5-44BD-B0ED-A9BED6444DEE}" />
+										<ref key="{2CB96833-3EFF-4405-BCEE-2C6C0B5DCF3F}" />
+										<ref key="{7192DBCC-564F-494C-AF51-CC6C54A7156A}" />
+										<ref key="{56352512-D96E-4E16-9BF5-1794D53443E2}" />
+										<ref key="{6325448F-4A6D-4E9B-B281-DE552757D1CE}" />
+										<ref key="{0264B317-9FA6-4734-AE3A-BB6800CFC590}" />
+										<ref key="{7B0BA795-CD15-427E-AB7B-34AF5B88FD46}" />
+										<ref key="{59B35E25-4AAA-420A-8985-D22DBBAF5E01}" />
+										<ref key="{E5F7801E-C431-4EA5-B137-473410511047}" />
+										<ref key="{375E1E50-8BA0-4221-805C-71A890719453}" />
+										<ref key="{E8A02627-A387-4ECF-BE99-49D90A06E6A6}" />
+										<ref key="{E3EBAF99-174D-44C9-BA07-2E65D1D8CE25}" />
+										<ref key="{FAEB7803-7E1F-4149-9A7B-9212BB9CDB82}" />
+										<ref key="{B734CA6D-C920-4280-AF1F-AF0D1E7556AD}" />
+										<ref key="{8ED80A0C-24B3-4B06-AC8A-169166D10F10}" />
+										<ref key="{39613601-4F60-4BF2-9A33-EB88E55B22D4}" />
+										<ref key="{1E8EB8CE-AA0C-47C4-BA88-041A82B25323}" />
+										<ref key="{76551DF7-4B24-4626-B96B-CDA69462D945}" />
+										<ref key="{EF9AD068-AC86-45E1-816E-9C2A54E7A1BA}" />
+										<ref key="{9458378F-3468-47B3-B873-3E8382AA3D32}" />
+										<ref key="{3FA27D84-B735-4787-90F7-66C6721ADF48}" />
+										<ref key="{A8D7F90E-9B3B-4564-8C34-112268218788}" />
+										<ref key="{462383BF-B647-4285-B849-456B4590BAE0}" />
+										<ref key="{259D530A-4B40-41A6-8777-7BAA4D248966}" />
+										<ref key="{A2F6D94B-DA33-45D5-83C2-42F4929B52D6}" />
+										<ref key="{72601104-4F27-4F38-99CC-561C3DBE38BB}" />
+										<ref key="{F1371BBA-5FF6-4DB5-B420-3F7C0FD10933}" />
+										<ref key="{0D64F449-C3D7-45B9-AE31-AA103A88D4C4}" />
+										<ref key="{2794910F-B56E-4C1E-92AE-1FF183C609E9}" />
+										<ref key="{E9C79693-B260-45AA-A6F8-A131337279C7}" />
+										<ref key="{712EAE11-FE1D-4AB6-BD6B-7330B319C560}" />
+										<ref key="{D35B8060-69EE-4550-ABE5-7BD00A3CADCD}" />
+										<ref key="{6689C052-F310-4B23-A9AE-990E1556AE81}" />
+										<ref key="{0F263575-CC39-4ACD-9465-5ADD7E4EE5E0}" />
+										<ref key="{CFE842CE-88EB-4A17-A115-8B0C10958A9E}" />
+										<ref key="{2102D22D-DCE8-4617-AE6D-D86620396713}" />
+										<ref key="{8F90E833-D15D-4FDD-9ACD-570978B0042B}" />
+										<ref key="{7CBC52CE-DF1E-4469-9001-F28F12A776E7}" />
+										<ref key="{960EA26C-E05E-4E95-A1E7-3E6FE6D63C22}" />
+										<ref key="{ADEF27DC-244D-4BC8-9CDB-6E3A694D11E5}" />
+										<ref key="{FCDD9C66-95E3-49FD-B4A6-5BF4F137502C}" />
+										<ref key="{25B5A271-D8F6-496F-BDAE-9EB5859A1E98}" />
+										<ref key="{5D1E2618-B316-4D2E-B707-A0512373250A}" />
+										<ref key="{04FE6244-183B-4C0E-9575-BE5970BB5B96}" />
+										<ref key="{81D2DB16-2C82-49A4-A622-675628A531F7}" />
+										<ref key="{F3B6FBAA-5772-48D7-906B-1E75921B5E35}" />
+										<ref key="{C8051D95-5B9B-4EEC-8D2F-8689C1AF6568}" />
+										<ref key="{E18FF147-105C-4743-9FFE-A1D3D16F0091}" />
+										<ref key="{499DBDE2-2B79-4917-B0EC-8AA3B705DDD9}" />
+										<ref key="{26582622-F077-4D4C-842D-55EE7BA9CBEA}" />
+										<ref key="{04CEE1BE-DEED-4663-BF53-841E47379992}" />
+										<ref key="{9C34487E-397E-4786-A5F5-5AC31BE13CB0}" />
+										<ref key="{BC2732A6-FC34-4FDB-A5D3-37357983687F}" />
+										<ref key="{14C6756E-FBDB-4361-9D20-258F11A7CCA8}" />
+										<ref key="{2D83BF14-952F-4E4D-8813-049909FE668B}" />
+										<ref key="{928ED934-0C35-4EB7-A481-B1F93E3CC8D0}" />
+										<ref key="{EE67AA07-EE39-4CEB-8AF4-756C6BE0BE27}" />
+										<ref key="{B94AB68D-C9C3-4D04-A2E9-6DDE9A133827}" />
+										<ref key="{7018CF5E-9097-4D42-8748-B3A6AA007B4B}" />
+										<ref key="{6FCD8BD1-FDC6-4E8B-B410-7C702BDEB642}" />
+										<ref key="{EFB721F2-6F13-4DDD-9029-8D48CD70B2CA}" />
+										<ref key="{42B25115-C373-4752-863B-CEACD11031D0}" />
+										<ref key="{8FE7B3B7-F5F0-4845-ADE0-ADD5E3FFE66E}" />
+										<ref key="{2CF42BEE-EF0A-4AF8-A5A9-7B3E06788950}" />
+										<ref key="{B2975488-D4FF-4A08-ABBE-C5757CD41797}" />
+										<ref key="{F30ECA4D-4680-4F9A-9466-384E2E7F4343}" />
+										<ref key="{BD90C6F8-97C3-427F-9D53-50AD74DF8E42}" />
+										<ref key="{3B0970BC-0C41-4267-A2D3-041AB850F4D6}" />
+										<ref key="{536050FC-02C6-4AC4-8A1F-B40E54D09D36}" />
+										<ref key="{611712E7-32E8-494D-9E92-77911C6C36A2}" />
+										<ref key="{72C88954-9CA1-42E4-80E9-0D073B50E3F2}" />
+										<ref key="{E90BCFB1-FEB0-46D2-BD54-11DB2401A7BB}" />
+										<ref key="{014712FF-BC19-4047-8812-4E02C67493FB}" />
+										<ref key="{2B6162A3-A8D9-4848-B67E-B972797E0A40}" />
+									</references>
+								</folder>
+								<folder caption="Automated Partially" description="A logical folder that is used to organize project items and elements." moniker="">
+									<references>
+										<ref key="{DD8ED5FB-9D20-4E83-8F80-89F2A0AFEAEF}" />
+										<ref key="{78DB2395-AEC9-4883-90F5-1EA14009D6FB}" />
+										<ref key="{291D936E-9B6E-47DE-89F0-54BBF4B3FBED}" />
+										<ref key="{AAF2E229-ADFF-4E93-92CC-0AA69F3E5E01}" />
+										<ref key="{06A9D2EF-6B39-4DDA-AD27-A139F76F2BF6}" />
+										<ref key="{6619919B-3A3B-4C16-8B2D-0DC8C6B7640B}" />
+										<ref key="{96FB2D67-4D48-4744-AC34-968EBED07921}" />
+										<ref key="{DDFE39DD-D9EB-4DB0-BB2D-7C5640269814}" />
+										<ref key="{260D7472-6188-43E2-A06E-A8D0DF970BD5}" />
+										<ref key="{FF7E7122-D225-4350-B82C-95BDC242A4F4}" />
+										<ref key="{20A8E2B7-6FC2-4EDE-8791-36C854ECC89A}" />
+										<ref key="{6DB730D6-4442-46B0-BD10-D409024750F9}" />
+										<ref key="{D89E51AD-49FF-40E7-87DB-C86A2AB38FFF}" />
+										<ref key="{A4CE8F87-2F8B-4605-A954-CB6A8C60BC92}" />
+										<ref key="{4E8CDFDF-59C7-418A-9737-4107CBF49D00}" />
+										<ref key="{31B01C6B-71D6-437C-9C4D-43EB57B1C745}" />
+										<ref key="{F046989F-893D-4E5A-BCA2-976CA26D1A49}" />
+										<ref key="{7A33568C-255C-41FE-8DBF-4F1B96B55EDC}" />
+										<ref key="{31ACAB73-D7D5-43A1-82B1-EE7C7544102D}" />
+										<ref key="{C8B49FCD-2D6E-4F00-9167-41340126D8BE}" />
+										<ref key="{E699BE19-54F0-43EF-B555-288339DC3CCE}" />
+										<ref key="{ADDEEFF0-3339-46A9-A54D-156E7CE57B4C}" />
+										<ref key="{139384A7-3FF6-4673-822C-C929DEDBE15C}" />
+										<ref key="{D14D007B-BA25-4E5A-B30E-CDD9408FFD70}" />
+										<ref key="{0A9DBC6C-C03D-41E9-892D-4403CA7C3599}" />
+										<ref key="{DE090270-F0B6-44EA-8351-D448EA661D57}" />
+										<ref key="{234CB4D4-9C07-4E6C-A7D3-84221F6C714F}" />
+										<ref key="{8D9AC96F-92A3-40E8-AF5B-2F7EE94323C2}" />
+										<ref key="{FCF9B3DB-701F-4D05-A771-DD04DC272C3F}" />
+										<ref key="{F526DA6D-B0E0-41A2-A915-EBD480EDB78D}" />
+										<ref key="{08821C07-EB94-4411-A53B-0398B6E1829F}" />
+										<ref key="{289EAAAE-497E-4061-B5A3-4C465E236359}" />
+										<ref key="{33FD8D5D-FD41-4579-99F5-C6233BE548FD}" />
+										<ref key="{6078DDC5-80E0-407C-AF16-85A7968B7F40}" />
+										<ref key="{5BDA815A-3518-4E24-809C-18A5D5EB4B1A}" />
+										<ref key="{79270412-1AB8-417B-98C8-8085C2E26D60}" />
+										<ref key="{4A08E08F-6F06-4B77-AED2-4C4B61DC5E0F}" />
+										<ref key="{53E7EDB5-F85D-478B-A391-9082AF7FBCFA}" />
+										<ref key="{6EE53EBA-EA97-449B-BD49-4BC1C85950F7}" />
+										<ref key="{00D9B3D2-E95C-4C58-9CCA-7B70AB5D65B4}" />
+										<ref key="{C6B924BD-5255-4AEA-8227-E52EF395089B}" />
+										<ref key="{0CD08A1B-1E48-4FE5-867A-448C941BE5C5}" />
+										<ref key="{9424B93D-8A06-4D2E-9402-166B74296B8E}" />
+										<ref key="{5A6A44CA-0A89-4921-A9F8-07C7D6F4E93F}" />
+										<ref key="{18E6A84B-EB56-4E5F-926D-377B5DC1FC18}" />
+										<ref key="{B82A421D-0663-41A6-9C6C-5D0C28AF83EC}" />
+										<ref key="{FE5DB919-3158-4083-9EE7-60E6191A46D3}" />
+										<ref key="{771B7DBE-EA1B-4D8A-A1F2-B06D1DC9DE91}" />
+										<ref key="{668A03A4-FC8A-40C5-9E04-9F05E1C6D129}" />
+										<ref key="{4E0CEEE7-AF63-42F1-9FD3-00979FA988D4}" />
+										<ref key="{6F666190-1297-41D8-B99A-3F2BBBC5AEC5}" />
+										<ref key="{3555DCEF-FE0C-4A4B-8742-D1BB19B71BEA}" />
+										<ref key="{3B011C5C-90E3-4030-9665-E0A65F2C10D6}" />
+										<ref key="{06DF1D5E-3F3A-42FE-A68B-C2057B70D98D}" />
+										<ref key="{D11CAD41-3A57-4733-AC62-8A0F1A2F5742}" />
+										<ref key="{70E09F69-5F5A-4717-ABCF-2175840DD160}" />
+										<ref key="{7369B18F-7492-4766-9799-AEAC59C8D02E}" />
+										<ref key="{CABFABA3-C244-40ED-9D4D-B6FCB18551C3}" />
+										<ref key="{7112EF3E-0A3A-44EF-886F-1441B274A1F8}" />
+										<ref key="{492998D7-7574-4F5F-B8E6-C518A0A9D62B}" />
+										<ref key="{EC4038B5-68B1-4BC3-B511-BB77E764A4CF}" />
+										<ref key="{0DC9176D-590F-4E4B-B065-7987EE7320D4}" />
+										<ref key="{FD0C2F80-2A2D-47AA-BF1D-765FBB594693}" />
+										<ref key="{E45D0E3C-8196-44A7-8EF6-3E66BD6E6B17}" />
+										<ref key="{40A8DAA5-F993-4673-834B-A0AC995C8B56}" />
+										<ref key="{726B7AE6-2C3C-497C-8209-E166F3469AFF}" />
+										<ref key="{8714DF8B-170B-47C3-BA09-24A7D4F6A975}" />
+										<ref key="{A901DF03-8F25-4589-B217-CA560317061F}" />
+										<ref key="{1BFFFAA3-E99F-484C-8BAD-1A7FB7B86CDD}" />
+										<ref key="{CBBEB6B7-BECE-42A8-8A35-12AB55FB43C9}" />
+										<ref key="{0C59FCE4-63E9-44D2-B639-5433B9266CB9}" />
+										<ref key="{68645AFD-351C-4B72-8AE7-DB3E46BDEC37}" />
+										<ref key="{D1844D18-2B87-4355-866E-71FDE020A148}" />
+										<ref key="{ACDC1B29-4167-4CBE-9630-8EBF9DD09285}" />
+										<ref key="{2DD0C092-EDE5-413A-858E-CF5287489B8A}" />
+										<ref key="{496E7F4A-89F7-41ED-ABFE-C87BFBA9D42C}" />
+										<ref key="{A506B900-68E9-4E92-8E44-5FC078000AA1}" />
+										<ref key="{3F8105CF-DD25-4A0A-B49B-A6717B93CD87}" />
+										<ref key="{21960085-D70C-4258-B6A6-299E6EA8DFAE}" />
+										<ref key="{10F3816B-5F41-46E0-964E-11A003B69291}" />
+										<ref key="{7D21BF3B-EF72-45C0-A114-EEB8F8B987E4}" />
+										<ref key="{FF6C2A23-1AFC-4A1A-B22E-753C4B686196}" />
+										<ref key="{D5DB74DE-B97B-4DE3-A8A2-337B79926E22}" />
+										<ref key="{B8DCBB22-46AD-421E-9BA1-DDA9D3429B4E}" />
+										<ref key="{E40FF8DF-D511-476C-8EDE-813B33FE1510}" />
+										<ref key="{9AF57338-892C-4A54-9047-C8D3A952D18E}" />
+										<ref key="{6950297D-66A7-42CE-9726-584D5AA2AE32}" />
+										<ref key="{A73D98E1-0B1D-479A-B2B5-AE159671DD2E}" />
+										<ref key="{CC57D782-7905-4EEB-9404-3FA41860E36F}" />
+										<ref key="{D82D7AB0-73F4-4A17-8708-EA57EBEFA1BA}" />
+										<ref key="{99CC6E37-BFA7-460C-9076-C64E911E7956}" />
+										<ref key="{200B9B21-0040-4582-B35B-F9C629FA6452}" />
+										<ref key="{A3DFFF08-5E8D-45D3-9289-88C7F3966B34}" />
+										<ref key="{5DA841C0-3732-4D3C-9098-446A9D3330A1}" />
+										<ref key="{FEEF7486-C51C-4C06-88D7-361AB17FB5D3}" />
+										<ref key="{24AD9FF4-B340-438B-AFC9-CC8B7083643C}" />
+										<ref key="{15A8CED3-0AB3-4F1F-BCC2-886BDD886B85}" />
+										<ref key="{A3D03F22-8EC8-4047-9272-63A905A46788}" />
+										<ref key="{733E48A6-7959-4933-9C7D-F2E2EA2A28F5}" />
+										<ref key="{C01B9FBD-50C7-4C0F-A8FC-870583E832D5}" />
+										<ref key="{827B84B5-BD1A-4381-9C26-4329A225B3D0}" />
+										<ref key="{75A315A6-F932-4B67-82B8-C8472E2B0437}" />
+										<ref key="{204CD0AE-D218-45A8-B5BF-AC0374006676}" />
+										<ref key="{D5D774C4-55F4-46D1-AB8A-8C53B7CC873D}" />
+										<ref key="{FC09FD0C-9ACE-44A0-9157-492804546038}" />
+										<ref key="{64AAE4B2-2D5B-415C-8171-E3CE0932A250}" />
+										<ref key="{3ACF968D-3372-43FC-997C-61B6669A41DC}" />
+										<ref key="{6BB7CFA4-494A-4149-BCB5-F37E0333D336}" />
+										<ref key="{7CB9130C-FE16-4EC2-BD72-3F9B5D63AA9A}" />
+										<ref key="{305579B1-2B06-471B-A629-1712F2FF7647}" />
+										<ref key="{4FF0E626-46BE-4792-8974-78B6AC6879FD}" />
+										<ref key="{8716ACE3-FC90-4BC7-A49E-C61A288C607E}" />
+										<ref key="{7B8CBC5A-C639-412D-B6B6-53E31C18FBB4}" />
+										<ref key="{98AE7ED7-BF78-40A1-B545-BCC156034046}" />
+										<ref key="{17241F5E-7A6E-4F91-841C-8A30CDEE9716}" />
+										<ref key="{62603D62-C53F-4BF0-9394-757FE47E30D4}" />
+										<ref key="{D23842F1-EDE0-44C5-8C86-2B6606E041B8}" />
+										<ref key="{7029474D-B69C-42F6-86FC-E75C08DF965C}" />
+										<ref key="{98322852-B018-4ED5-84C5-05821AB05D16}" />
+										<ref key="{2C41DCA2-7882-4725-9C11-CC444A3CAF25}" />
+										<ref key="{E24B2665-BD0B-40D9-9268-12A87CBFBB2F}" />
+										<ref key="{E774085F-4E25-4E8E-95E9-4EBE226ECE1A}" />
+										<ref key="{D47F49DD-B154-4665-88EC-8FE579267851}" />
+										<ref key="{63775CBC-F7F7-433C-9CB5-CD19FD9C1BF0}" />
+									</references>
+								</folder>
+							</folders>
+							<references>
+								<ref key="{497BFE76-CEED-4ECF-95D2-B0D803888808}" />
+								<ref key="{FDBF3849-2400-424C-8523-0BCD60C344E1}" />
+								<ref key="{57AAAE6B-998B-4E0A-A300-19ACB01DA5FC}" />
+								<ref key="{83A90558-BB8B-4F41-AAE7-87E51018B579}" />
+								<ref key="{F6B1F2CA-4A0D-40E8-A1BB-EA433DB5E3B0}" />
+								<ref key="{413660CB-1843-48D8-8162-65EDA9DD2424}" />
+								<ref key="{4D2A6B7D-6719-4452-A9AF-31830BCD7C77}" />
+								<ref key="{0C5689D9-5893-4DAD-B112-E75C14E89DF8}" />
+								<ref key="{49F9C23B-E002-4BD0-AE82-AC4BB5EE59BF}" />
+								<ref key="{5BFFA176-10E2-4CC0-972E-5AF61F178084}" />
+								<ref key="{779F9381-20D1-418C-9EF2-70516EB4F99E}" />
+								<ref key="{E1A04953-DBBB-4C50-85C9-3D5D8721ECD6}" />
+								<ref key="{17C87301-EBC3-4247-8116-4B5B526A8BD4}" />
+							</references>
+						</folder>
+						<folder caption="Smoke" description="A logical folder that is used to organize project items and elements." moniker="">
+							<references>
+								<ref key="{2E0E0B41-7D8C-4F84-9F6F-28D4A3836E32}" />
+								<ref key="{048A5974-B15F-461B-A7C3-1C6D33DA6389}" />
+								<ref key="{D3960DA1-BD90-411A-8EA7-A9484C18C3FC}" />
+								<ref key="{6A113F27-CD66-43CF-BC02-5AEECE4FE518}" />
+								<ref key="{ABFD4633-FCE7-4DBF-8DBE-AA3DE2DBE35D}" />
+								<ref key="{51F5BDDC-3E5D-490B-8998-EAE8B0C63419}" />
+								<ref key="{83D573C2-1C8A-43D5-B173-D25FB4E834CF}" />
+								<ref key="{B2F6FD39-E3D5-4F48-9470-C503D1E6CF20}" />
+								<ref key="{042AB1AE-1026-41F0-9C3C-E5ABEA3A9869}" />
+								<ref key="{3DDEFFF6-7022-4FA6-BA29-8B67D5F77587}" />								
+							</references>
+						</folder>
+					</folders>
+				</folder>
+				<folder caption="PreProd_Passport POS X_Y_Z" description="A logical folder that is used to organize project items and elements." moniker="" />
+			</folders>
+		</folder>
+		<folder caption="Lib" description="A logical folder that is used to organize project items and elements." moniker="">
+			<folders>
+				<folder caption="AppLib" description="A logical folder that is used to organize project items and elements." moniker="">
+					<references>
+						<ref key="{06E16DB4-75AB-475E-B0F4-5C6CD5F86C04}" />
+						<ref key="{DD005FDF-4D49-40B5-96F0-E9C280AD1E33}" />
+						<ref key="{667519A4-3189-4DEA-8E30-C7312D22BCD6}" />
+						<ref key="{0A90383C-2A0D-4C18-BE23-89624685744C}" />
+					</references>
+				</folder>
+				<folder caption="CommonLib" description="A logical folder that is used to organize project items and elements." moniker="">
+					<folders>
+						<folder caption="Basic KeyActions" description="A logical folder that is used to organize project items and elements." moniker="">
+							<references>
+								<ref key="{5250B0DE-8B0F-4FEE-981C-471B947F53A6}" />
+								<ref key="{4FD308B9-0723-4A36-97C4-2361084AED96}" />
+								<ref key="{7AB0D75A-FBAA-4D5D-8EF1-D8EEBFB45994}" />
+								<ref key="{08F0B54E-2B2C-4665-BDD8-B6A6DF3539DD}" />
+								<ref key="{96E04BB9-2F52-46D6-B388-47537243113E}" />
+								<ref key="{96C70D4C-B3F9-4291-BA23-ADCA85EDEE71}" />
+								<ref key="{8BCFF826-86A1-4929-B776-BEBE6115A09D}" />
+							</references>
+						</folder>
+					</folders>
+					<references>
+						<ref key="{C15A41B9-0C6A-4577-AB41-DB00C09723F7}" />
+						<ref key="{76C7FF0E-583A-4105-8074-68FC533B1718}" />
+						<ref key="{8A074FBD-2216-462E-9C68-2A0F00282D28}" />
+						<ref key="{30981A99-2104-4ECA-A053-5C1BD7F8C6FD}" />
+						<ref key="{2D7C73D9-03E4-4F48-B516-937422F2970A}" />
+						<ref key="{12B283CD-B1B0-42F1-8932-3FEF6A481BDC}" />
+						<ref key="{25CBDE02-06B2-482B-B237-D71A88603B99}" />
+						<ref key="{57426C87-9F95-45A9-9B5F-7E0E8916333E}" />
+						<ref key="{959C74B2-E1F2-4D08-801B-6C3365DFF174}" />
+						<ref key="{ADA37153-8923-4C97-AB91-6E0778BF276E}" />
+						<ref key="{8F1A802F-61EA-4E77-A0E3-F8AF33CADA47}" />
+						<ref key="{2DD177CA-E93F-4883-B0FD-723CA0313C8A}" />
+						<ref key="{3D105C89-A3CD-4D8D-ACE2-8BF484C89560}" />
+					</references>
+				</folder>
+				<folder caption="Ref" description="A logical folder that is used to organize project items and elements." moniker="" />
+			</folders>
+		</folder>
+		<folder caption="Handler" description="A logical folder that is used to organize project items and elements." moniker="">
+			<folders>
+				<folder caption="Events" description="A logical folder that is used to organize project items and elements." moniker="" />
+				<folder caption="Excel" description="A logical folder that is used to organize project items and elements." moniker="">
+					<folders>
+						<folder caption="Report" description="A logical folder that is used to organize project items and elements." moniker="" />
+					</folders>
+				</folder>
+			</folders>
+			<references>
+				<ref key="{F8EA90AE-1F28-4AC6-910E-2281D16D65C0}" />
+			</references>
+		</folder>
+		<folder caption="PropertiesConstants" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{3FC10DF9-4C50-4644-9B77-297F902AE545}" />
+			</references>
+		</folder>
+		<folder caption="TestData" description="A logical folder that is used to organize project items and elements." moniker="" />
+	</folders>
+</Root>

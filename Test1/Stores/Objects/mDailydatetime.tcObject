@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="children">
+			<Node name="child_0">
+				<Node name="children">
+					<Node name="child_3">
+						<Node name="children">
+							<Node name="child_1">
+								<Node name="children"/>
+								<Node name="properties">
+									<Node name="property_1">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Visible"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="1"/>
+									</Node>
+									<Node name="property_0">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Enabled"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="0"/>
+									</Node>
+								</Node>
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="class name" type="S" value="TextLine(0)"/>
+								<Prp name="group name" type="S" value=""/>
+								<Prp name="objecttype" type="I" value="0"/>
+								<Prp name="name" type="S" value="TextLine(0)"/>
+								<Prp name="index" type="I" value="1"/>
+							</Node>
+							<Node name="child_0">
+								<Node name="children"/>
+								<Node name="properties">
+									<Node name="property_1">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Visible"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="1"/>
+									</Node>
+									<Node name="property_0">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Enabled"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="0"/>
+									</Node>
+								</Node>
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="class name" type="S" value="Shape(0)"/>
+								<Prp name="group name" type="S" value=""/>
+								<Prp name="objecttype" type="I" value="0"/>
+								<Prp name="name" type="S" value="Shape(0)"/>
+								<Prp name="index" type="I" value="0"/>
+							</Node>
+						</Node>
+						<Node name="properties">
+							<Node name="property_1">
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="type" type="I" value="3"/>
+								<Prp name="kind" type="I" value="0"/>
+								<Prp name="basic" type="B" value="-1"/>
+								<Prp name="name" type="S" value="Visible"/>
+								<Prp name="value" type="B" value="-1"/>
+								<Prp name="index" type="I" value="1"/>
+							</Node>
+							<Node name="property_0">
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="type" type="I" value="3"/>
+								<Prp name="kind" type="I" value="0"/>
+								<Prp name="basic" type="B" value="-1"/>
+								<Prp name="name" type="S" value="Enabled"/>
+								<Prp name="value" type="B" value="-1"/>
+								<Prp name="index" type="I" value="0"/>
+							</Node>
+						</Node>
+						<Prp name="selected" type="B" value="-1"/>
+						<Prp name="class name" type="S" value="Label(&quot;pkgLabel&quot;)"/>
+						<Prp name="group name" type="S" value=""/>
+						<Prp name="objecttype" type="I" value="0"/>
+						<Prp name="name" type="S" value="Label(&quot;pkgLabel&quot;)"/>
+						<Prp name="index" type="I" value="3"/>
+					</Node>
+					<Node name="child_0">
+						<Node name="children">
+							<Node name="child_0">
+								<Node name="children"/>
+								<Node name="properties">
+									<Node name="property_1">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Visible"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="1"/>
+									</Node>
+									<Node name="property_0">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Enabled"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="0"/>
+									</Node>
+								</Node>
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="class name" type="S" value="Shape(0)"/>
+								<Prp name="group name" type="S" value=""/>
+								<Prp name="objecttype" type="I" value="0"/>
+								<Prp name="name" type="S" value="Shape(0)"/>
+								<Prp name="index" type="I" value="0"/>
+							</Node>
+						</Node>
+						<Node name="properties">
+							<Node name="property_1">
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="type" type="I" value="3"/>
+								<Prp name="kind" type="I" value="0"/>
+								<Prp name="basic" type="B" value="-1"/>
+								<Prp name="name" type="S" value="Visible"/>
+								<Prp name="value" type="B" value="-1"/>
+								<Prp name="index" type="I" value="1"/>
+							</Node>
+							<Node name="property_0">
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="type" type="I" value="3"/>
+								<Prp name="kind" type="I" value="0"/>
+								<Prp name="basic" type="B" value="-1"/>
+								<Prp name="name" type="S" value="Enabled"/>
+								<Prp name="value" type="B" value="-1"/>
+								<Prp name="index" type="I" value="0"/>
+							</Node>
+						</Node>
+						<Prp name="selected" type="B" value="-1"/>
+						<Prp name="class name" type="S" value="RichText(&quot;descLabel&quot;)"/>
+						<Prp name="group name" type="S" value=""/>
+						<Prp name="objecttype" type="I" value="0"/>
+						<Prp name="name" type="S" value="RichText(&quot;descLabel&quot;)"/>
+						<Prp name="index" type="I" value="0"/>
+					</Node>
+					<Node name="child_2">
+						<Node name="children">
+							<Node name="child_0">
+								<Node name="children">
+									<Node name="child_1">
+										<Node name="children">
+											<Node name="child_4">
+												<Node name="children"/>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="0"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="GraphicIcons(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="GraphicIcons(0)"/>
+												<Prp name="index" type="I" value="4"/>
+											</Node>
+											<Node name="child_2">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;retailAmountLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;retailAmountLabel&quot;)"/>
+												<Prp name="index" type="I" value="2"/>
+											</Node>
+											<Node name="child_1">
+												<Node name="children">
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="0"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;hotkeyLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;hotkeyLabel&quot;)"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="child_3">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;rateLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;rateLabel&quot;)"/>
+												<Prp name="index" type="I" value="3"/>
+											</Node>
+											<Node name="child_6">
+												<Node name="children"/>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Image(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Image(0)"/>
+												<Prp name="index" type="I" value="6"/>
+											</Node>
+											<Node name="child_0">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;qtyLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;qtyLabel&quot;)"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+											<Node name="child_7">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="0"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Image(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Image(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Image(1)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Image(1)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="HGroup(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="HGroup(0)"/>
+												<Prp name="index" type="I" value="7"/>
+											</Node>
+											<Node name="child_5">
+												<Node name="children"/>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="0"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Image(1)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Image(1)"/>
+												<Prp name="index" type="I" value="5"/>
+											</Node>
+										</Node>
+										<Node name="properties">
+											<Node name="property_1">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Visible"/>
+												<Prp name="value" type="B" value="-1"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="property_0">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Enabled"/>
+												<Prp name="value" type="B" value="-1"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+										</Node>
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="class name" type="S" value="Group(0)"/>
+										<Prp name="group name" type="S" value=""/>
+										<Prp name="objecttype" type="I" value="0"/>
+										<Prp name="name" type="S" value="Group(0)"/>
+										<Prp name="index" type="I" value="1"/>
+									</Node>
+									<Node name="child_0">
+										<Node name="children">
+											<Node name="child_1">
+												<Node name="children">
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="child_0">
+												<Node name="children">
+													<Node name="child_0">
+														<Node name="children">
+															<Node name="child_0">
+																<Node name="children"/>
+																<Node name="properties">
+																	<Node name="property_1">
+																		<Prp name="selected" type="B" value="-1"/>
+																		<Prp name="type" type="I" value="3"/>
+																		<Prp name="kind" type="I" value="0"/>
+																		<Prp name="basic" type="B" value="-1"/>
+																		<Prp name="name" type="S" value="Visible"/>
+																		<Prp name="value" type="B" value="-1"/>
+																		<Prp name="index" type="I" value="1"/>
+																	</Node>
+																	<Node name="property_0">
+																		<Prp name="selected" type="B" value="-1"/>
+																		<Prp name="type" type="I" value="3"/>
+																		<Prp name="kind" type="I" value="0"/>
+																		<Prp name="basic" type="B" value="-1"/>
+																		<Prp name="name" type="S" value="Enabled"/>
+																		<Prp name="value" type="B" value="-1"/>
+																		<Prp name="index" type="I" value="0"/>
+																	</Node>
+																</Node>
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="class name" type="S" value="TextLine(0)"/>
+																<Prp name="group name" type="S" value=""/>
+																<Prp name="objecttype" type="I" value="0"/>
+																<Prp name="name" type="S" value="TextLine(0)"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="AccTextInputSkin_v2(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="AccTextInputSkin_v2(0)"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+										</Node>
+										<Node name="properties">
+											<Node name="property_1">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Visible"/>
+												<Prp name="value" type="B" value="0"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="property_0">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Enabled"/>
+												<Prp name="value" type="B" value="-1"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+										</Node>
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="class name" type="S" value="CurrencyInput(&quot;variableAmountField&quot;)"/>
+										<Prp name="group name" type="S" value=""/>
+										<Prp name="objecttype" type="I" value="0"/>
+										<Prp name="name" type="S" value="CurrencyInput(&quot;variableAmountField&quot;)"/>
+										<Prp name="index" type="I" value="0"/>
+									</Node>
+								</Node>
+								<Node name="properties">
+									<Node name="property_1">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Visible"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="1"/>
+									</Node>
+									<Node name="property_0">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Enabled"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="0"/>
+									</Node>
+								</Node>
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="class name" type="S" value="ListItem(0)"/>
+								<Prp name="group name" type="S" value=""/>
+								<Prp name="objecttype" type="I" value="0"/>
+								<Prp name="name" type="S" value="ListItem(0)"/>
+								<Prp name="index" type="I" value="0"/>
+							</Node>
+							<Node name="child_2">
+								<Node name="children">
+									<Node name="child_1">
+										<Node name="children">
+											<Node name="child_4">
+												<Node name="children"/>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="0"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="GraphicIcons(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="GraphicIcons(0)"/>
+												<Prp name="index" type="I" value="4"/>
+											</Node>
+											<Node name="child_2">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;retailAmountLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;retailAmountLabel&quot;)"/>
+												<Prp name="index" type="I" value="2"/>
+											</Node>
+											<Node name="child_1">
+												<Node name="children">
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="0"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;hotkeyLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;hotkeyLabel&quot;)"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="child_3">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;rateLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;rateLabel&quot;)"/>
+												<Prp name="index" type="I" value="3"/>
+											</Node>
+											<Node name="child_6">
+												<Node name="children"/>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Image(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Image(0)"/>
+												<Prp name="index" type="I" value="6"/>
+											</Node>
+											<Node name="child_0">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;qtyLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;qtyLabel&quot;)"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+											<Node name="child_7">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="0"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Image(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Image(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Image(1)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Image(1)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="HGroup(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="HGroup(0)"/>
+												<Prp name="index" type="I" value="7"/>
+											</Node>
+											<Node name="child_5">
+												<Node name="children"/>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="0"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Image(1)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Image(1)"/>
+												<Prp name="index" type="I" value="5"/>
+											</Node>
+										</Node>
+										<Node name="properties">
+											<Node name="property_1">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Visible"/>
+												<Prp name="value" type="B" value="-1"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="property_0">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Enabled"/>
+												<Prp name="value" type="B" value="-1"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+										</Node>
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="class name" type="S" value="Group(0)"/>
+										<Prp name="group name" type="S" value=""/>
+										<Prp name="objecttype" type="I" value="0"/>
+										<Prp name="name" type="S" value="Group(0)"/>
+										<Prp name="index" type="I" value="1"/>
+									</Node>
+									<Node name="child_0">
+										<Node name="children">
+											<Node name="child_1">
+												<Node name="children">
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="child_0">
+												<Node name="children">
+													<Node name="child_0">
+														<Node name="children">
+															<Node name="child_0">
+																<Node name="children"/>
+																<Node name="properties">
+																	<Node name="property_1">
+																		<Prp name="selected" type="B" value="-1"/>
+																		<Prp name="type" type="I" value="3"/>
+																		<Prp name="kind" type="I" value="0"/>
+																		<Prp name="basic" type="B" value="-1"/>
+																		<Prp name="name" type="S" value="Visible"/>
+																		<Prp name="value" type="B" value="-1"/>
+																		<Prp name="index" type="I" value="1"/>
+																	</Node>
+																	<Node name="property_0">
+																		<Prp name="selected" type="B" value="-1"/>
+																		<Prp name="type" type="I" value="3"/>
+																		<Prp name="kind" type="I" value="0"/>
+																		<Prp name="basic" type="B" value="-1"/>
+																		<Prp name="name" type="S" value="Enabled"/>
+																		<Prp name="value" type="B" value="-1"/>
+																		<Prp name="index" type="I" value="0"/>
+																	</Node>
+																</Node>
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="class name" type="S" value="TextLine(0)"/>
+																<Prp name="group name" type="S" value=""/>
+																<Prp name="objecttype" type="I" value="0"/>
+																<Prp name="name" type="S" value="TextLine(0)"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="AccTextInputSkin_v2(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="AccTextInputSkin_v2(0)"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+										</Node>
+										<Node name="properties">
+											<Node name="property_1">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Visible"/>
+												<Prp name="value" type="B" value="0"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="property_0">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Enabled"/>
+												<Prp name="value" type="B" value="-1"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+										</Node>
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="class name" type="S" value="CurrencyInput(&quot;variableAmountField&quot;)"/>
+										<Prp name="group name" type="S" value=""/>
+										<Prp name="objecttype" type="I" value="0"/>
+										<Prp name="name" type="S" value="CurrencyInput(&quot;variableAmountField&quot;)"/>
+										<Prp name="index" type="I" value="0"/>
+									</Node>
+								</Node>
+								<Node name="properties">
+									<Node name="property_1">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Visible"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="1"/>
+									</Node>
+									<Node name="property_0">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Enabled"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="0"/>
+									</Node>
+								</Node>
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="class name" type="S" value="ListItem(1)"/>
+								<Prp name="group name" type="S" value=""/>
+								<Prp name="objecttype" type="I" value="0"/>
+								<Prp name="name" type="S" value="ListItem(1)"/>
+								<Prp name="index" type="I" value="2"/>
+							</Node>
+							<Node name="child_1">
+								<Node name="children">
+									<Node name="child_1">
+										<Node name="children">
+											<Node name="child_4">
+												<Node name="children"/>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="0"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="GraphicIcons(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="GraphicIcons(0)"/>
+												<Prp name="index" type="I" value="4"/>
+											</Node>
+											<Node name="child_2">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;retailAmountLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;retailAmountLabel&quot;)"/>
+												<Prp name="index" type="I" value="2"/>
+											</Node>
+											<Node name="child_1">
+												<Node name="children">
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="0"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;hotkeyLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;hotkeyLabel&quot;)"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="child_3">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;rateLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;rateLabel&quot;)"/>
+												<Prp name="index" type="I" value="3"/>
+											</Node>
+											<Node name="child_6">
+												<Node name="children"/>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Image(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Image(0)"/>
+												<Prp name="index" type="I" value="6"/>
+											</Node>
+											<Node name="child_0">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Shape(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Shape(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Label(&quot;qtyLabel&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Label(&quot;qtyLabel&quot;)"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+											<Node name="child_7">
+												<Node name="children">
+													<Node name="child_1">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="0"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Image(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Image(0)"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="Image(1)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="Image(1)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="HGroup(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="HGroup(0)"/>
+												<Prp name="index" type="I" value="7"/>
+											</Node>
+											<Node name="child_5">
+												<Node name="children"/>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="0"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="Image(1)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="Image(1)"/>
+												<Prp name="index" type="I" value="5"/>
+											</Node>
+										</Node>
+										<Node name="properties">
+											<Node name="property_1">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Visible"/>
+												<Prp name="value" type="B" value="-1"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="property_0">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Enabled"/>
+												<Prp name="value" type="B" value="-1"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+										</Node>
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="class name" type="S" value="Group(0)"/>
+										<Prp name="group name" type="S" value=""/>
+										<Prp name="objecttype" type="I" value="0"/>
+										<Prp name="name" type="S" value="Group(0)"/>
+										<Prp name="index" type="I" value="1"/>
+									</Node>
+									<Node name="child_0">
+										<Node name="children">
+											<Node name="child_1">
+												<Node name="children">
+													<Node name="child_0">
+														<Node name="children"/>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="TextLine(0)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="TextLine(0)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="child_0">
+												<Node name="children">
+													<Node name="child_0">
+														<Node name="children">
+															<Node name="child_0">
+																<Node name="children"/>
+																<Node name="properties">
+																	<Node name="property_1">
+																		<Prp name="selected" type="B" value="-1"/>
+																		<Prp name="type" type="I" value="3"/>
+																		<Prp name="kind" type="I" value="0"/>
+																		<Prp name="basic" type="B" value="-1"/>
+																		<Prp name="name" type="S" value="Visible"/>
+																		<Prp name="value" type="B" value="-1"/>
+																		<Prp name="index" type="I" value="1"/>
+																	</Node>
+																	<Node name="property_0">
+																		<Prp name="selected" type="B" value="-1"/>
+																		<Prp name="type" type="I" value="3"/>
+																		<Prp name="kind" type="I" value="0"/>
+																		<Prp name="basic" type="B" value="-1"/>
+																		<Prp name="name" type="S" value="Enabled"/>
+																		<Prp name="value" type="B" value="-1"/>
+																		<Prp name="index" type="I" value="0"/>
+																	</Node>
+																</Node>
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="class name" type="S" value="TextLine(0)"/>
+																<Prp name="group name" type="S" value=""/>
+																<Prp name="objecttype" type="I" value="0"/>
+																<Prp name="name" type="S" value="TextLine(0)"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Node name="properties">
+															<Node name="property_1">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Visible"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="1"/>
+															</Node>
+															<Node name="property_0">
+																<Prp name="selected" type="B" value="-1"/>
+																<Prp name="type" type="I" value="3"/>
+																<Prp name="kind" type="I" value="0"/>
+																<Prp name="basic" type="B" value="-1"/>
+																<Prp name="name" type="S" value="Enabled"/>
+																<Prp name="value" type="B" value="-1"/>
+																<Prp name="index" type="I" value="0"/>
+															</Node>
+														</Node>
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="class name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+														<Prp name="group name" type="S" value=""/>
+														<Prp name="objecttype" type="I" value="0"/>
+														<Prp name="name" type="S" value="RichEditableText(&quot;textDisplay&quot;)"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Node name="properties">
+													<Node name="property_1">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Visible"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="1"/>
+													</Node>
+													<Node name="property_0">
+														<Prp name="selected" type="B" value="-1"/>
+														<Prp name="type" type="I" value="3"/>
+														<Prp name="kind" type="I" value="0"/>
+														<Prp name="basic" type="B" value="-1"/>
+														<Prp name="name" type="S" value="Enabled"/>
+														<Prp name="value" type="B" value="-1"/>
+														<Prp name="index" type="I" value="0"/>
+													</Node>
+												</Node>
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="class name" type="S" value="AccTextInputSkin_v2(0)"/>
+												<Prp name="group name" type="S" value=""/>
+												<Prp name="objecttype" type="I" value="0"/>
+												<Prp name="name" type="S" value="AccTextInputSkin_v2(0)"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+										</Node>
+										<Node name="properties">
+											<Node name="property_1">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Visible"/>
+												<Prp name="value" type="B" value="0"/>
+												<Prp name="index" type="I" value="1"/>
+											</Node>
+											<Node name="property_0">
+												<Prp name="selected" type="B" value="-1"/>
+												<Prp name="type" type="I" value="3"/>
+												<Prp name="kind" type="I" value="0"/>
+												<Prp name="basic" type="B" value="-1"/>
+												<Prp name="name" type="S" value="Enabled"/>
+												<Prp name="value" type="B" value="-1"/>
+												<Prp name="index" type="I" value="0"/>
+											</Node>
+										</Node>
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="class name" type="S" value="CurrencyInput(&quot;variableAmountField&quot;)"/>
+										<Prp name="group name" type="S" value=""/>
+										<Prp name="objecttype" type="I" value="0"/>
+										<Prp name="name" type="S" value="CurrencyInput(&quot;variableAmountField&quot;)"/>
+										<Prp name="index" type="I" value="0"/>
+									</Node>
+								</Node>
+								<Node name="properties">
+									<Node name="property_1">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Visible"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="1"/>
+									</Node>
+									<Node name="property_0">
+										<Prp name="selected" type="B" value="-1"/>
+										<Prp name="type" type="I" value="3"/>
+										<Prp name="kind" type="I" value="0"/>
+										<Prp name="basic" type="B" value="-1"/>
+										<Prp name="name" type="S" value="Enabled"/>
+										<Prp name="value" type="B" value="-1"/>
+										<Prp name="index" type="I" value="0"/>
+									</Node>
+								</Node>
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="class name" type="S" value="ListItem(2)"/>
+								<Prp name="group name" type="S" value=""/>
+								<Prp name="objecttype" type="I" value="0"/>
+								<Prp name="name" type="S" value="ListItem(2)"/>
+								<Prp name="index" type="I" value="1"/>
+							</Node>
+						</Node>
+						<Node name="properties">
+							<Node name="property_1">
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="type" type="I" value="3"/>
+								<Prp name="kind" type="I" value="0"/>
+								<Prp name="basic" type="B" value="-1"/>
+								<Prp name="name" type="S" value="Visible"/>
+								<Prp name="value" type="B" value="-1"/>
+								<Prp name="index" type="I" value="1"/>
+							</Node>
+							<Node name="property_0">
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="type" type="I" value="3"/>
+								<Prp name="kind" type="I" value="0"/>
+								<Prp name="basic" type="B" value="-1"/>
+								<Prp name="name" type="S" value="Enabled"/>
+								<Prp name="value" type="B" value="-1"/>
+								<Prp name="index" type="I" value="0"/>
+							</Node>
+						</Node>
+						<Prp name="selected" type="B" value="-1"/>
+						<Prp name="class name" type="S" value="DataGroup(&quot;ratesList&quot;)"/>
+						<Prp name="group name" type="S" value=""/>
+						<Prp name="objecttype" type="I" value="0"/>
+						<Prp name="name" type="S" value="DataGroup(&quot;ratesList&quot;)"/>
+						<Prp name="index" type="I" value="2"/>
+					</Node>
+					<Node name="child_1">
+						<Node name="children"/>
+						<Node name="properties">
+							<Node name="property_1">
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="type" type="I" value="3"/>
+								<Prp name="kind" type="I" value="0"/>
+								<Prp name="basic" type="B" value="-1"/>
+								<Prp name="name" type="S" value="Visible"/>
+								<Prp name="value" type="B" value="0"/>
+								<Prp name="index" type="I" value="1"/>
+							</Node>
+							<Node name="property_0">
+								<Prp name="selected" type="B" value="-1"/>
+								<Prp name="type" type="I" value="3"/>
+								<Prp name="kind" type="I" value="0"/>
+								<Prp name="basic" type="B" value="-1"/>
+								<Prp name="name" type="S" value="Enabled"/>
+								<Prp name="value" type="B" value="-1"/>
+								<Prp name="index" type="I" value="0"/>
+							</Node>
+						</Node>
+						<Prp name="selected" type="B" value="-1"/>
+						<Prp name="class name" type="S" value="GraphicIcons(&quot;deleteButton&quot;)"/>
+						<Prp name="group name" type="S" value=""/>
+						<Prp name="objecttype" type="I" value="0"/>
+						<Prp name="name" type="S" value="GraphicIcons(&quot;deleteButton&quot;)"/>
+						<Prp name="index" type="I" value="1"/>
+					</Node>
+				</Node>
+				<Node name="properties">
+					<Node name="property_1">
+						<Prp name="selected" type="B" value="-1"/>
+						<Prp name="type" type="I" value="3"/>
+						<Prp name="kind" type="I" value="0"/>
+						<Prp name="basic" type="B" value="-1"/>
+						<Prp name="name" type="S" value="Visible"/>
+						<Prp name="value" type="B" value="-1"/>
+						<Prp name="index" type="I" value="1"/>
+					</Node>
+					<Node name="property_0">
+						<Prp name="selected" type="B" value="-1"/>
+						<Prp name="type" type="I" value="3"/>
+						<Prp name="kind" type="I" value="0"/>
+						<Prp name="basic" type="B" value="-1"/>
+						<Prp name="name" type="S" value="Enabled"/>
+						<Prp name="value" type="B" value="-1"/>
+						<Prp name="index" type="I" value="0"/>
+					</Node>
+				</Node>
+				<Prp name="selected" type="B" value="-1"/>
+				<Prp name="class name" type="S" value="ListItem(&quot;&lt;P assoc_keywords=\&quot;Daily Admission\&quot; cart_limit_override=\&quot;1\&quot; date=\&quot;1\&quot; desc=\&quot;3 site combi - scans at 3 attractions\&quot; display_order=\&quot;5\&quot; extra_movie=\&quot;date_time\&quot; id=\&quot;500033\&quot; keyword=\&quot;Daily Admission\&quot; keyword_description=\&quot;\&quot; max_quantity=\&quot;100\&quot; merchant_id=\&quot;803\&quot; min_quantity=\&quot;1\&quot; min_retail_amount=\&quot;0.00\&quot; name=\&quot;3 site Combi\&quot; package_class=\&quot;PreProd POS\&quot; print_movie=\&quot;ticket_ldcb\&quot; rate_count=\&quot;3\&quot; reservable_flag=\&quot;0\&quot; shipping_type_flag=\&quot;4\&quot; tax=\&quot;0\&quot; type=\&quot;N\&quot; use_capacity=\&quot;true\&quot; qty=\&quot;0\&quot;&gt;&lt;KEYWORDS&gt;&lt;K display_order=\&quot;5\&quot; keyword=\&quot;Daily Admission\&quot; keyword_description=\&quot;\&quot;/&gt;&lt;/KEYWORDS&gt;&lt;CT active=\&quot;1\&quot; display_order=\&quot;0\&quot; fee_total=\&quot;0.0\&quot; fees=\&quot;0\&quot; group_id=\&quot;0\&quot; id=\&quot;500344\&quot; max_variable_price=\&quot;\&quot; min_variable_price=\&quot;\&quot; name=\&quot;Adult\&quot; rate_id=\&quot;518602\&quot; renewal_flag=\&quot;0\&quot; retail_amount=\&quot;21.95\&quot; retail_value=\&quot;21.95\&quot; tax_amount=\&quot;0.00\&quot; flex_use_date_time=\&quot;true\&quot;/&gt;&lt;CT active=\&quot;1\&quot; desc=\&quot;Children (Ages 3-12)\&quot; display_order=\&quot;1\&quot; fee_total=\&quot;0.0\&quot; fees=\&quot;0\&quot; group_id=\&quot;0\&quot; id=\&quot;500345\&quot; max_variable_price=\&quot;\&quot; min_variable_price=\&quot;\&quot; name=\&quot;Children (Ages 3-12)\&quot; rate_id=\&quot;518603\&quot; renewal_flag=\&quot;0\&quot; retail_amount=\&quot;20.95\&quot; retail_value=\&quot;20.95\&quot; tax_amount=\&quot;0.00\&quot; flex_use_date_time=\&quot;true\&quot;/&gt;&lt;CT active=\&quot;1\&quot; display_order=\&quot;2\&quot; fee_total=\&quot;0.0\&quot; fees=\&quot;0\&quot; group_id=\&quot;0\&quot; id=\&quot;500354\&quot; max_variable_price=\&quot;\&quot; min_variable_price=\&quot;\&quot; name=\&quot;Under 3\&quot; rate_id=\&quot;518604\&quot; renewal_flag=\&quot;0\&quot; retail_amount=\&quot;0.00\&quot; retail_value=\&quot;0.00\&quot; tax_amount=\&quot;0.00\&quot; flex_use_date_time=\&quot;true\&quot;/&gt;&lt;E date=\&quot;1\&quot; id=\&quot;502500\&quot; isResourceEvent=\&quot;N\&quot; name=\&quot;PreProd - Main Timed\&quot; seating=\&quot;0\&quot; vendor_id=\&quot;10\&quot; vendor_name=\&quot;Legoland Discovery Center Boston\&quot;/&gt;&lt;CHARACS product_of_interest=\&quot;meg_test\&quot;/&gt;&lt;PACKAGE_ENTITLEMENT ee_id=\&quot;500237\&quot; rule_id=\&quot;1\&quot; rule_value=\&quot;1\&quot;/&gt;&lt;CROSS_SELL/&gt;&lt;/P&gt;&quot;)"/>
+				<Prp name="group name" type="S" value=""/>
+				<Prp name="objecttype" type="I" value="0"/>
+				<Prp name="name" type="S" value="ListItem(&quot;&lt;P assoc_keywords=\&quot;Daily Admission\&quot; cart_limit_override=\&quot;1\&quot; date=\&quot;1\&quot; desc=\&quot;3 site combi - scans at 3 attractions\&quot; display_order=\&quot;5\&quot; extra_movie=\&quot;date_time\&quot; id=\&quot;500033\&quot; keyword=\&quot;Daily Admission\&quot; keyword_description=\&quot;\&quot; max_quantity=\&quot;100\&quot; merchant_id=\&quot;803\&quot; min_quantity=\&quot;1\&quot; min_retail_amount=\&quot;0.00\&quot; name=\&quot;3 site Combi\&quot; package_class=\&quot;PreProd POS\&quot; print_movie=\&quot;ticket_ldcb\&quot; rate_count=\&quot;3\&quot; reservable_flag=\&quot;0\&quot; shipping_type_flag=\&quot;4\&quot; tax=\&quot;0\&quot; type=\&quot;N\&quot; use_capacity=\&quot;true\&quot; qty=\&quot;0\&quot;&gt;&lt;KEYWORDS&gt;&lt;K display_order=\&quot;5\&quot; keyword=\&quot;Daily Admission\&quot; keyword_description=\&quot;\&quot;/&gt;&lt;/KEYWORDS&gt;&lt;CT active=\&quot;1\&quot; display_order=\&quot;0\&quot; fee_total=\&quot;0.0\&quot; fees=\&quot;0\&quot; group_id=\&quot;0\&quot; id=\&quot;500344\&quot; max_variable_price=\&quot;\&quot; min_variable_price=\&quot;\&quot; name=\&quot;Adult\&quot; rate_id=\&quot;518602\&quot; renewal_flag=\&quot;0\&quot; retail_amount=\&quot;21.95\&quot; retail_value=\&quot;21.95\&quot; tax_amount=\&quot;0.00\&quot; flex_use_date_time=\&quot;true\&quot;/&gt;&lt;CT active=\&quot;1\&quot; desc=\&quot;Children (Ages 3-12)\&quot; display_order=\&quot;1\&quot; fee_total=\&quot;0.0\&quot; fees=\&quot;0\&quot; group_id=\&quot;0\&quot; id=\&quot;500345\&quot; max_variable_price=\&quot;\&quot; min_variable_price=\&quot;\&quot; name=\&quot;Children (Ages 3-12)\&quot; rate_id=\&quot;518603\&quot; renewal_flag=\&quot;0\&quot; retail_amount=\&quot;20.95\&quot; retail_value=\&quot;20.95\&quot; tax_amount=\&quot;0.00\&quot; flex_use_date_time=\&quot;true\&quot;/&gt;&lt;CT active=\&quot;1\&quot; display_order=\&quot;2\&quot; fee_total=\&quot;0.0\&quot; fees=\&quot;0\&quot; group_id=\&quot;0\&quot; id=\&quot;500354\&quot; max_variable_price=\&quot;\&quot; min_variable_price=\&quot;\&quot; name=\&quot;Under 3\&quot; rate_id=\&quot;518604\&quot; renewal_flag=\&quot;0\&quot; retail_amount=\&quot;0.00\&quot; retail_value=\&quot;0.00\&quot; tax_amount=\&quot;0.00\&quot; flex_use_date_time=\&quot;true\&quot;/&gt;&lt;E date=\&quot;1\&quot; id=\&quot;502500\&quot; isResourceEvent=\&quot;N\&quot; name=\&quot;PreProd - Main Timed\&quot; seating=\&quot;0\&quot; vendor_id=\&quot;10\&quot; vendor_name=\&quot;Legoland Discovery Center Boston\&quot;/&gt;&lt;CHARACS product_of_interest=\&quot;meg_test\&quot;/&gt;&lt;PACKAGE_ENTITLEMENT ee_id=\&quot;500237\&quot; rule_id=\&quot;1\&quot; rule_value=\&quot;1\&quot;/&gt;&lt;CROSS_SELL/&gt;&lt;/P&gt;&quot;)"/>
+				<Prp name="index" type="I" value="0"/>
+			</Node>
+		</Node>
+		<Node name="properties"/>
+		<Prp name="selected" type="B" value="-1"/>
+		<Prp name="class name" type="S" value=""/>
+		<Prp name="version" type="I" value="1"/>
+		<Prp name="group name" type="S" value=""/>
+		<Prp name="objecttype" type="I" value="0"/>
+		<Prp name="mode" type="I" value="6"/>
+		<Prp name="identifier" type="S" value="Stores.Objects"/>
+		<Prp name="name" type="S" value=""/>
+	</Node>
+</Nodes>

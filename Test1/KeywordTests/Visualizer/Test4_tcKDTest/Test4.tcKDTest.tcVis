@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{934AE0E5-4388-40E8-93EF-9EABB5BD60B9}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="43013.2980787037" objectName="Aliases.notepad_.wndNotepad.Scintilla" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi9364549635440.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43013.2981365741" objectName="Aliases.Passport_POS.wndApolloRuntimeContentWindow.passportposPassportpos1.addToCart_button" objectLeft="546" objectTop="919" objectRight="625" objectBottom="934" clickPointX="565" clickPointY="922" imageFileName="tcvi9365061335441.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="43013.2981944444" objectName="Aliases.Passport_POS.wndApolloRuntimeContentWindow.InvalidLoginErrorWindow.buttonOkOnError" objectLeft="611" objectTop="521" objectRight="676" objectBottom="551" clickPointX="656" clickPointY="532" imageFileName="tcvi9365582435442.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{30501691-969F-4007-923F-BA4459E51E6A}" version="12.0">
+	<children>
+		<child name="mDailydatetime" key="{78D8AA79-9B4B-4333-88CC-08037DAE165D}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="mDailydatetime" ID="{78D8AA79-9B4B-4333-88CC-08037DAE165D}" FileName="Objects\mDailydatetime.tcObject" Update="False" />
+		</child>
+		<child name="labelBtnlbl" key="{1ECA4176-C9F3-42F8-9D42-07F7DFC317B7}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="labelBtnlbl" ID="{1ECA4176-C9F3-42F8-9D42-07F7DFC317B7}" FileName="Objects\labelBtnlbl.tcObject" Update="False" />
+		</child>
+		<child name="applicationmessage0" key="{47AC5421-2D37-4712-BB68-3372642C5670}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="applicationmessage0" ID="{47AC5421-2D37-4712-BB68-3372642C5670}" FileName="Objects\applicationmessage0.tcObject" Update="False" />
+		</child>
+		<child name="applicationmessage01" key="{0E20C183-48F4-49DF-87D8-CF2E35942659}" type="Object" typeId="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" pluginName="Stores">
+			<data signature="{5EFCFFBB-0DF6-45A2-ADB2-4FD0BF2A280B}" version="12.0" caption="applicationmessage01" ID="{0E20C183-48F4-49DF-87D8-CF2E35942659}" FileName="Objects\applicationmessage01.tcObject" Update="False" />
+		</child>
+	</children>
+	<folders />
+</Root>

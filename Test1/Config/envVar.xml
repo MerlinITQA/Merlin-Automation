@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+   <AppUnderTest>C:\Passport POS 5.0.3.rc6\Passport POS.exe</AppUnderTest>
+   <LogPath>C:\Users\Admin\Documents\TestComplete 12 Projects\Merlin_TestSuite\Merlin_TestSuite\Test1\Config\log.txt</LogPath>
+   <userName>MerlinQA</userName>
+   <password>Qwerty6%</password>
+</configuration>
