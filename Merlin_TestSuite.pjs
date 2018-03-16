@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{002D85EF-86FA-4159-A705-5EDD86ADAFC1}">
+	<children>
+		<child name="Merlin" key="{03062084-6340-46C7-93D6-9D9A657AF57E}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Test1\Merlin.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{A7E88A88-93C5-48E3-B867-FE57DC211C93}">
+		<children>
+			<testItem key="{03062084-6340-46C7-93D6-9D9A657AF57E}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{9C64AA3D-01DE-4357-9C2D-FAE6DC81DB30}">
+		<data Version="3">
+			<Items>
+				<Variable Name="testResultStatus" Type="{88422C25-DDF4-4EA1-B7CC-95779A023F5D}" Local="True">
+					<DefValue IntValue="0" />
+				</Variable>
+				<Variable Name="testRunID" Type="{123F0C0F-44B4-4BAF-B0E6-F3F89FD873B5}" Local="True">
+					<DefValue StrValue="350031003900" />
+				</Variable>
+				<Variable Name="POSVersion" Type="{123F0C0F-44B4-4BAF-B0E6-F3F89FD873B5}" Local="True">
+					<DefValue StrValue="35002E0030002E003800" />
+				</Variable>
+				<Variable Name="comment" Type="{123F0C0F-44B4-4BAF-B0E6-F3F89FD873B5}" Local="True">
+					<DefValue StrValue="54006500730074002000630061007300650020004600610069006C0065006400" />
+				</Variable>
+				<Variable Name="testCaseID" Type="{88422C25-DDF4-4EA1-B7CC-95779A023F5D}" Local="True">
+					<DefValue IntValue="0" />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{4EA0AB65-7390-468D-A7C2-F00674F5C1D3}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
